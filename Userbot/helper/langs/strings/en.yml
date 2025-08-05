@@ -1,0 +1,1252 @@
+name : 🇺🇸 English
+natively: English
+
+authors:
+  - Keenan
+  - Lucifer
+  - Lumiere
+
+
+lim_er: "<b>{} Sorry, your account is currently limited. Please check the spambot limit!!</b>"
+peer: "{}**It looks like you haven't interacted with this user id yet.!!**"
+keyeror: "{}**Looks like wrong user id!!**"
+img_1: "{}Usage example: `{} 5 cute cats` or `{} cute cats`"
+kdm_1: "{}<b>Give the name you want to check the Khodam for.</b>"
+kdm_2: "{}<b>Here is the Khodam of <code>{}</code>:\n\n<code>{}</code>\n\n{} Checked by: {}</b>"
+mmf_1: "{}**Please Reply to photo or sticker!**"
+mmf_2: "{}**Please Type `{} text`**"
+ment_5: "{}<b>Successfully mentioned <code>{}</code> members.</b>"
+nts_12: "{}**Notes `{}` already exist.**"
+cmds: "**Command Help**"
+err: "{}**Error:** {} \n\n**Please report to @ZeebSupport**"
+err_1: "❌ **Error:** {} \n\n**Please report to @ZeebSupport**"
+proses: "{}<b>{}</b>"
+proses_1: "🔄 **Being processed...**"
+upload: "{}**Uploading...**"
+klk_1: "📌 Click Here"
+balik: "⬅️ Back"
+prev: "⬅️ Prev"
+next: "➡️ Next"
+ttup: "❌ Close"
+reboot: "{}**Reboot has been initiated successfully! Please wait 1 - 2 minutes for the bot to restart.**"
+reboot_1: "Reboot has been initiated successfully! Please wait 1 - 2 minutes for the bot to restart."
+supot: "🧸 **If you need help, please come to the Support Group Below!!\n\nOr you can see updates on our Channel...**"
+lang_1 : "🇲🇨 Please select the language you want to set as the default language for this group:"
+lang_2 : "✅ Language successfully changed."
+lang_3 : "❌ Failed to change language."
+lang_4 : "❌ You are already using the same language."
+
+# proxy
+prox_1: "**➣ `{}`**"
+prox_2: "{}<b>Nothing found froxy.</b>"
+prox_3: "{}**List Proxy of `{}` :**\n\n"
+prox_4: "{}**There's no Proxy valid.**"
+prox_5: "{}<b>Commands not valid.\nExample commands {} [`http`|`socks4`|`socks5`]</b>"
+prox_6: "{}<b>Commands not valid.\nExample commands `{}` [`http`|`socks4`|`socks5`]</b>"
+
+# tod
+tod_1: "{}**Dare :**\n\n `{}`"
+tod_2: "{}**Failed to get Dare. Please try again.**"
+tod_3: "{}**Truth :**\n\n `{}`"
+tod_4: "{}**Failed to get Truth. Please try again.**"
+
+# autoend
+auend_1: "{}**Provide arguments!!**"
+auend_2: "{}Successfully deleted chat history {}!"
+auend_3: "{}Successfully deleted {} chat history of user!"
+auend_4: "{}Successfully deleted {} chat history of bot!"
+
+# lirik
+lirk_1: "{}<b>Wrong stupid!!\n{} Use format: <code>{}</code> Artist Name - Song Title\n\n{} Example : <code>{} Arctic Monkeys - Do I Wanna Know</code></b>"
+lirk_2: "{}<b>Oops, couldn't find the song lyrics.</b>"
+
+# filter
+fil_1: "{}List of Filters in Group {}:\n"
+fil_2: "{}There are no filters in this group."
+fil_3: "{}Maximum Filters limit is 50."
+fil_4: "{}Use format : `{}` [name][reply to message]."
+fil_5: "{}Use format : `{}` [name][reply to message]."
+fil_6: "{}Filters `{}` already exist."
+fil_7: "{}Provide filter name."
+fil_8: "{}Unable to save Filters with symbols < or >."
+fil_9: "{}Text cannot be empty."
+fil_10: "{}Make sure split quote is correct."
+fil_11: "{}Filters saved `{}`."
+fil_12: "{}Which filters should be stopped?"
+fil_13: "{}No Filters here."
+fil_14: "{}Filter `{}` deleted!"
+fil_15: "{}All Filters successfully deleted."
+fil_16: "{}Unable to find this Filter."
+
+# image
+help_img: " **Image**\n\n• Command: `{0}`img [query]\n• Description: To search for images."
+help_ips: " **IpSearch**\n\n• Command: `{0}`ipf [country]\n• Description: To search for fake addresses.\n\n• Command: `{0}`ips [ip]\n• Description: To search for an address\n\n• Not 100% accurate."
+
+# mention
+ment_1: "{}<b>You're not an ADMIN on this Group!</b>"
+ment_2: "{}<b>Please give me someme text.</b>"
+ment_3: "{}<b>There's no procces mention all.</b>"
+ment_4: "{}<b>Mention all has been stoped!</b>"
+
+# sangmata
+sangmat_1: "{}<b><code>sg</code> username/id/reply</b>"
+sangmat_2: "{}<b>Please specify a valid user!</b>"
+sangmat_3: "{}<b>Bot is missing :( </b>"
+sangmat_4: "{}<code>{}</code>"
+
+# invite
+inv_1: "{}<b>Adding Member ...</b>"
+inv_2: "{}<b>Give Some ID/Username!</b>"
+inv_3: "{}<b>Successful Adding Member :</b> <b>{}</b>\n <b>To : <code>{}</code></b>"
+inv_4: "{}<b>Link Invite:</b> {}"
+inv_5: "{}<b>You don't have Required permission</b>"
+inv_6: "{}<b>This feature is only available for groups and channels</b>"
+
+# join
+join_1: "{}<b>Successfully Joined</b> <code>{}</code>"
+join_2: "{}<b>Not allowed to use that command in `{}`!</b>"
+join_3: "{}{} Successfully left <code>{}</code>"
+join_4: "{}<b>Bye!</b>"
+join_5: "{}<b>Successfully left `{}` Groups\n{} Failed to leave `{}` Groups</b>"
+join_6: "{}<b>Successfully left `{}` {}\n{} Failed to leave `{}` {}.</b>"
+join_7: "{}<b>You can't use this command on this chat!\nBecause, You're an `Admin` or `Owner` of `{}`</b>"
+join_8: "{}**Use the `{}` [group or ch] format**"
+
+# assistant
+asst_1: "Hello 👋 {} !! I'm your bot assistant.\n\nWhat settings would you like to change?"
+asst_2: "Hello 👋 {} !! I'm {}'s assistant.\nWhat are you looking for?"
+asst_3: "Language"
+asst_4: "The language you are currently using is: **{}**\nPlease select if you want to change the language."
+asst_5: "Your language has been changed to: **{}**\n\nYou need to Restart Userbot to apply the changes."
+asst_6: "Restart"
+asst_7: "Update"
+
+# autoread 
+autoread_1: "{}**Use Format: `autoread` [query] [on/off].**"
+autoread_2: "{}**Successfully turned on group autoread.**"
+autoread_3: "{}**Successfully turned on user autoread.**"
+autoread_4: "{}**Successfully turned on autoread channel.**"
+autoread_5: "{}**Successfully turned on autoread all.**"
+autoread_6: "{}**Please enter the query correctly!!**"
+autoread_7: "{}**Successfully turned on autoread bot.**"
+autoread_8: "{}**Autoread {} was successfully disabled.**"
+autoread_9: "{}**Successfully turned on autoread mention s.**"
+
+# download
+down_1: "{}**Stupid Wrong!! Format {} [query].**"
+
+# button
+butt_1: "{}**Please type `help markdown` to see button format!**"
+
+# afk
+afk_1: "{}**Cannot use channel account.**"
+afk_2: "{}**Now Afk!!**"
+afk_3: "**{} Back Online!\n{} AFK Duration! : `{}` ago.**"
+afk_4: "**{} Back Online!\n{} AFK Duration! : `{}` ago.**\n{}**Reason : `{}`.**"
+afk_5: "**{} is AFK!!**\n{} **From:** `{}` ago."
+afk_6: "**{} is AFK!!**\n{} **From:** `{}` ago.\n{} **Reason:** `{}`."
+
+# carbon
+crbn_1: "{}**Example Command :\n\n• `{} [reply text]`\n• `{} [reply text] LimeGreen`\n• `{} [reply text] LimeGreen Dracula`\n • `{} [reply text] LimeGreen Dracula python`\n**"
+crbn_2: "{}**Carbonated by: {}.**"
+crbn_3: "{}**Proccess Uploading Results ..**"
+
+# copy
+cpy_1: "{}**Use format : `{}` [link].**"
+cpy_2: "{}**Copying stopped.**"
+cpy_3: "**🔒 Content is Private!!**"
+
+# database
+dbs_1: "{}**Use Format : `{}` [variable] [value].**"
+dbs_2: "{}**PMPermit Enabled.**"
+dbs_3: "{}**PMPic Set to : `{}`.**"
+dbs_4: "{}**Alive Pic Set to : `{}`.**"
+dbs_5: "{}**PM Text set to default.**"
+dbs_6: "{}**Please see database query!!**"
+dbs_7: "{}**Use format : `{}` [query].**"
+dbs_8: "{}**This is your {} : `{}`.**"
+dbs_9: "{}**{} Successfully deleted!!**"
+dbs_10: "{}**Tag Logger set to `{}`.**"
+dbs_11: "{}**PM Logger set to `{}`.**"
+
+# emoji
+em_1: "{}**Emoji status set to: <emoji id={}>😭</emoji>.**"
+em_2: "{}**You are not a Telegram Premium user!**"
+em_3: "{}**Please reply to the premium emoji!**"
+em_4: "{}**Emoji ID: `{}`.**"
+em_5: "{}**Use format: `{}` [variable] [premium emoji].**"
+em_6: "{}**Emoji {} set to: <emoji id={}>😀</emoji>**"
+em_7: "{}**Emoji {} set to: {}**"
+em_8: "{}<b>Successfully changed custom text: <u>{}</u></b>"
+em_9: "{}**Query not found!!**"
+em_10: "{}<b>Query not found!! Please type `{}help emoji`</b>"
+em_24: "{}**Custom Emoji:**\n\n- Ping: {}\n- Pong: {}\n- Process: {}\n- Success: {}\n- Failed: {}\n- Profile: {}\n- Alive: {}\n- Warning: {}\n- Block: {}**"
+em_25: "{}**Emoji status set to: <emoji id={}>😭</emoji>.**"
+
+# gcast
+gcs_1: "{}**Please reply to a message or give a message.**"
+gcs_2: "{}**Group Broadcast Process :\n{} Sent to : `{}` Group.\n{} Failed to Send to : `{}` Group.**"
+gcs_3: "{}**User Broadcast Process :\n{} Sent to : `{}` User.\n{} Failed to Send to : `{}` User.**"
+gcs_4: "{}**This group is already in the blacklist!!**"
+gcs_5: "{}**`{}` Added to the blacklist successfully.**"
+gcs_6: "{}**Group `{}` is already in the blacklist!!**"
+gcs_7: "{}**`{}` Not in the blacklist.**"
+gcs_8: "{}**Group `{}` successfully removed from the blacklist!!**"
+gcs_9: "{}**Group `{}` is no longer in the blacklist!!**"
+gcs_10: "{}**• Gcast blacklist list `{}`!!**\n\n"
+gcs_11: "**• `{}` | `{}`**\n"
+gcs_12: "**• `{}`**\n"
+gcs_13: "{}**The blacklist list is empty!!**"
+gcs_14: "{}**All blacklist lists have been successfully deleted.**"
+gcs_15: "{}**{} :\n{} Succeeded in `{}` Group.\n{} Failed in `{}` Group.**"
+gcs_16: "{}**User Broadcast Result :\n{} Succeeded in `{}` Group.\n{} Failed in `{}` Group.**"
+
+# alive 
+alv_1: "Author"
+alv_2: "Connoisseur"
+alv_3: "Mix-Userbot\n    status {}\n      dc_id {}\n      ping_dc {} ms\n      antipm {}\n      users {}\n      bot: {}\n      groups {}\n      bot_duration {}"
+alv_4: "Support"
+
+# global
+glbl_2: "{}**User not found.**"
+glbl_3: "{}**He is a Developer of Mix-Userbot.**"
+glbl_4: "{}**Please provide a reason for the Gban!**"
+glbl_5: "{}**User is already Gbanned.**"
+glbl_6: "{}**Global Ban Warning\n\n{} Success: `{}` Chats\n{} Failed: `{}` Chats\n{} Users: `{}`**\n{} Reason: `{}`**"
+glbl_7: "{}**User is not yet Gbanned.**"
+glbl_8: "{}**Global Unban Warning\n\n{} Success: `{}` Chats\n{} Failed: `{}` Chats\n{} Users: `{}`**"
+glbl_9: "{}**Please provide a reason for the GMute!**"
+glbl_10: "{}**User is already Gmuted.**"
+glbl_11: "{}**Global Mute Warning\n\n{} Success: `{}` Chats\n{} Failed: `{}` Chats\n{} Users: `{}`\n{} Reason: `{}`**"
+glbl_12: "{}**User has never been GMuted before.**"
+glbl_13: "{}**Global Unmute Warning\n\n{} Success: `{}` Chats\n{} Failed: `{}` Chats\n{} Users: `{}`**"
+glbl_14: "{}**List of GBanned Users:**\n\n"
+glbl_15: "{}**{}**\n"
+glbl_16: "{}**Reason: `{}`\n\nTotal :`{}`**\n"
+glbl_17: "{}**List of GBanned Users!!**\n\n"
+glbl_18: "{}**List of GMuted Users:**\n\n"
+glbl_19: "{}**`{}`**\n"
+glbl_20: "{}**Reason: `{}`\n\nTotal :`{}`**\n"
+glbl_21: "{}**List of GMuted Users!!**\n\n"
+glbl_22: "**No user found.**"
+
+# graph
+grp_1: "{}**Please reply to a text or media message!**"
+grp_3: "{}**Successfully Uploaded: <a href='https://telegra.ph/{}'>Click Here</a>**"
+grp_5: "{}**Successfully Uploaded: <a href='https://telegra.ph/{}'>Click Here</a>**"
+
+# grouplog
+grplog_1: "{}**Group Log Successfully Activated:\n\n{}**"
+grplog_2: "{}**Your Group Log is Already Active.**"
+grplog_3: "{}**Group Log Successfully Deactivated.**"
+grplog_4: "{}**Your Group Log is Already Deactivated.**"
+grplog_5: "{}**Incorrect format provided. Please use `grouplog on` or `grouplog off`.**"
+grplog_6: "**📨 New Message\n\n• Group: {}\n• User: {}\n• Message: {}**"
+grplog_7: "Reply Message"
+
+# help
+hlp_1: "{}**No module named `{}`.**"
+
+# heroku
+hero_1: "{}**You can only fetch logs from Heroku.**"
+hero_2: "{}**Use format: `{}` variable.**"
+hero_3: "{}**{} `{}`.**"
+hero_4: "{}**Cannot find such variable.**"
+hero_5: "{}**env file not found.**"
+hero_6: "{}**`{}` successfully deleted.**"
+hero_7: "{}**Use format: `{}` [variable] [value].**"
+hero_8: "{}**`{}` successfully updated.**"
+hero_9: "{}**`{}` successfully added.**"
+hero_10: "{}**Only for Heroku users.**"
+hero_11: "{}**DYNO USAGE\n\n{} <u>Usage:</u>\nTotal Used:\n`{}h` `{}m` [`{}%`]\n\n{} <u>Remaining Quota:</u>\nTotal Left: `{}h` `{}m` [`{}%`]"
+hero_12: "{}**Git Command Error.**"
+hero_13: "{}**Invalid Git Repository.**"
+hero_14: "{}**Mix-Userbot is already up to date.**"
+hero_15: "**New update available for Mix-Userbot!\n\n➣ Push Update Now\n\nUpdate:**\n\n"
+hero_16: "**New update available for Mix-Userbot!\n\n➣ Push Update Now\n\nUpdate:\n\n[Click Here to Check Update]({})**"
+hero_17: "{}{}\n\n**Mix-Userbot successfully updated! Now, wait 2 - 3 minutes for the bot to restart!**"
+
+# info
+info_1: "{}**I'm not in that group!**"
+info_2: "**Unknown**"
+info_3: "**Developer**"
+info_4: "**Bot Owner**"
+info_5: "**Developer & Owner**"
+info_6: "**Cannot fetch**"
+info_7: "**User is a bot**"
+info_8: "**User was seen recently**"
+info_9: "**User was seen a week ago**"
+info_10: "**User was seen a month ago**"
+info_11: "**User has been unseen for a long time or perhaps I am blocked by the user**"
+info_12: "**User is currently online**"
+info_13: "**User is currently offline**"
+info_14: "**User Info\n\n🆔 User ID: `{}`\n📎 Link To Profile: <a href='tg://user?id={}'>Click Here🚪</a>\n🫵 Mention: {}\n🗣 First Name: {}\n🔅 Second Name: {}\n🔍 Username: {}\n✍️ Bio: `{}`\n🧑‍💻 Support: {}\n🥷 Support User Type: {}\n💣 Gbanned: {}\n☠️ Gban Reason: {}\n🌐 DC ID: {}\n✋ Restricted: {}\n✅ Verified: {}\n❌ Fake : {}\n⚠️ Scam : {} \n🤖 Bot: {}\n👀 Last seen: {}**"
+info_15: "**Chat Info\n\n🆔 ID: `{}`\n🚀 Chat Title: {}\n✨ Chat Type: {}\n🌐 DataCentre ID: {}\n🔍 Username: {}\n⚜️ Administrators: {}\n🤖 Bots: {}\n🚫 Banned: {}\n⚜️ Admin 🤖 Bots: {}\n⁉️ Scam: {}\n❌ Fake: {}\n✋ Restricted: {}\n👨🏿‍💻 Description: {}\n👪 Total members: {}\n🚫 Has Protected Content: {}\n🔗 Linked Chat: {}**"
+info_16: "{}This is not a user, but a group! Please use `cinfo`."
+info_17: "{}**Use format '{}` @username/group_id.**"
+
+# staff
+stap_0: " ┣ {}"
+stap_1: " ┣ {} <u>as</u> <i>{}</i>"
+stap_2: "<b>👑 Founder : </b>\n {}\n\n"
+stap_3: "<b>👨🏻‍💻 Co-Founder : </b>\n"
+stap_4: "<b>🧑🏻‍💻 Admins : </b>\n"
+stap_5: "<b>🤖 Bots : </b>\n"
+stap_6: "{}<b>List Admins at {}</b>\n\n\n"
+
+# limit
+lmt_1: "{}**{}**\n\n ~ {} **{}**"
+
+# locks
+lck_1: "{}**Use the format: `{}` type!**"
+lck_2: "{}**Provide arguments to lock!**"
+lck_3: "{}**Looks like I don't have enough permission to perform {}!**"
+lck_4: "{}**Locked `all` for this group!**"
+lck_5: "{}**Already on!**"
+lck_6: "{}**Send the link to be locked in this group!**"
+lck_8: "{}**Send as channel to be locked in this group!**"
+lck_9: "{}**Forwarded messages locked in this group!**"
+lck_10: "{}**User forwarded messages locked in this group!**"
+lck_11: "{}**Channel forwarded messages locked in this group!**"
+lck_12: "{}**Invalid Lock Type!**\n\n**Please type `locktypes` to see lock format!**"
+lck_13: "{}**Looks like I don't have enough permission!**"
+lck_14: "{}**{}** locked in this group."
+lck_16: "{}**Provide arguments to unlock!**"
+lck_18: "{}**Unlocked `all` for this group!**"
+lck_19: "{}**Already off!**"
+lck_20: "{}**Send as channel to be unlocked in this group!**"
+lck_21: "{}**Send the link to be unlocked in this group!**"
+lck_22: "{}**All forwarded messages unlocked in this group!**"
+lck_23: "{}**User forwarded messages unlocked in this group!**"
+lck_24: "{}**Channel forwarded messages unlocked in this group!**"
+lck_25: "{}**Invalid Unlock Type!**\n\n**Please type `locktypes` to see lock format!**"
+lck_27: "{}**{}** unlocked in this group!**"
+lck_28: "{}**An error occurred!**"
+lck_29: "{}**Report to @zbnansupport:\n\n`{}`**"
+
+# logo
+logo_1: "{}**Use the format: `{}` [text]**"
+logo_2: "{}**Created by: {}**"
+
+# notes
+nts_1: "{}**Use the format: `{}` [note name] [reply to message].**"
+nts_2: "{}**Text cannot be empty.**"
+nts_3: "{}**Note `{}` successfully saved.**"
+nts_4: "{}**Provide a note name!**"
+nts_5: "{}**Note `{}` not found!**"
+nts_6: "{}**No notes found!**"
+nts_7: "{}**List of Notes:**\n\n"
+nts_8: "**• `{}`**\n"
+nts_9: "{}**Which note do you want to delete?**"
+nts_10: "{}**Note `{}` not found!**"
+nts_11: "{}**Note `{}` successfully deleted.**"
+
+# pastebin
+paste_1: "{}**Use the format: `{}` [reply to text or document message]**"
+paste_2: "{}**Document size must be below 40KB!**"
+paste_3: "{}**Success! [Link Here]({})**"
+
+# ping
+ping_1: "**{} Pong `{}ms`**\n**{} Uptime !! `{}`**\n**{} Mix-Userbot Dev**"
+
+# pmpermit
+pmper_1: "Hey {mention} 👋.  Don't spam or you'll be blocked!!"
+pmper_2: "You've got {}/{} warnings !!"
+pmper_3: "{}**User approved!**"
+pmper_4: "{}**Alright, user approved to send messages.**"
+pmper_5: "{}**User is not yet approved to send messages.**"
+pmper_6: "{}**Alright, user rejected from sending messages.**"
+pmper_7: "{}**PMPermit message successfully set to :\n\n`{}`**"
+pmper_8: "{}**Use the format: `{}` [number].**"
+pmper_9: "{}**Message Limit successfully set to: `{}`.**"
+pmper_10: "{}**I've informed `{}` warning\nWait for my Owner to approve your message, or you'll be blocked!**"
+
+# quote
+qot_1: "{}**List of Colors:\n\n**"
+qot_2: "{}**These are the color options for the quote background.**"
+qot_3: "{}**The dog pretending to be a Developer!**"
+qot_4: "{}**Message limit is 10!**"
+them_1: "{}**List of Themes:\n\n**"
+them_2: "{}**This is a list of themes.**"
+
+# restrict
+res_1: "{}**Oh, you want to kick yourself?**"
+res_2: "{}**Kick User: {}\n{} Admin: {}\n{} Reason: `{}`**"
+res_3: "{}You don't have the authority to kick him!"
+res_4: "{}Oh, you want to ban yourself?"
+res_5: "{}**Ban User: {}\n{} Admin: {}\n{} Reason: {}**"
+res_6: "{}**Unbanned {}**"
+res_7: "{}**Please reply to the message!**"
+res_8: "{}**Pin removed [message]({})!**"
+res_9: "{}**Successfully pinned [message]({})!**"
+res_10: "{}**Oh, you want to mute yourself?**"
+res_11: "{}**Mute User: {}\n{} Admin: {}\n{} Reason: `{}`**"
+res_12: "{}**I'm not an admin!**"
+res_13: "{}**I don't have permission!**"
+res_14: "{}**Permission to send messages {}.**"
+res_15: "{}**Successfully kicked `{}` account deleted.**"
+res_16: "{}**No deleted accounts here!**"
+res_17: "{}**Group Links:**\n\n{}"
+res_18: "{}**Please reply to the message to report to admin!**"
+res_19: "{}**Yes, correct**"
+res_20: "{}**He's an admin!**"
+res_21: "{}**Reported {} to admin!**"
+res_22: "{}**You're an admin!**"
+res_23: "{}**{}\n{} User {} successfully promoted to co-founder!**"
+res_24: "{}**{}\n{} User {} successfully promoted to admin!**"
+res_25: "{}**User is not an admin!**"
+res_26: "{}Admins : {}\n{} User {} successfully demoted from admin!"
+res_27: "{}**User was not appointed by me!**"
+res_28: "{}**Successfully changed Group name: {} to {}.**"
+res_29: "{}**Successfully changed Group description: {} to {}.**"
+res_30: "{}**Provide a title for the user!**"
+res_31: "{}He is the owner of this group!"
+res_32: "{}**Successfully changed the title of user {} to {}.**"
+res_33: "{}**Reply to media!**"
+res_34: "{}**Group photo successfully changed!**"
+res_35: "{}**Successfully changed document to group photo!**"
+res_36: "{}Successfully changed video to group photo!**"
+
+# showid
+shid_9: "{}**Gif ID : `{}`**"
+shid_10: "{}**Please reply to the gif!**"
+
+# spam
+spm_1: "{}**Use the format: `{}` [count] [message or reply to message].**"
+spm_2: "{}**Use the format: `{}` [count] [delay time] [reply to message].**"
+spm_3: "{}**No ongoing spam process!**"
+spm_4: "{}**Spam stopped!!**"
+spm_5: "{}**Use the format:`{}` [count] [delay time] [link].**"
+spm_6: "{}Prohibited in this group!!"
+spm_7: "{}**Successfully added `{}` group to database**!!"
+spm_8: "{}**`{}` Successfully added to database.**"
+spm_9: "{}**This group already exists in the database!!**"
+spm_10: "{}**`{}` Does not exist in database.**"
+spm_11: "{}**Group `{}` successfully deleted from database!!**"
+spm_12: "<b>{} List group in database</b>\n\n"
+spm_13: "{}**Database list is empty!!**"
+spm_14: "{}**All groups in the database have been successfully deleted.**"
+
+sct_1: "<code>{}</code> [reply to user message - text]"
+
+# spy
+spy_1: "{}Failed!!"
+spy_2: "{}Theft Result!!"
+
+# markdown
+mark_1: "<b>Markdown Formatting</b>\n<b>You can format your message using <b>bold</b>, <i>italic</i>, <u>underline</u>, <strike>strikethrough</strike>, and many more.</b>\n\n<code>`code word`</code>: Backticks are used to make monospace font. Displayed as: <code>code word</code>.\n\n<code>__italic__</code>: Double underscore is used to make italic font. Displayed as: <i>italic word</i>.\n\n<code>**bold**</code>: Asterisks are used to make bold font. Displayed as: <b>bold word</b>.\n\n<code>--underline--</code>: Double dashes are used to create <u>underline</u> text.\n\n<code>~~strikethrough~~</code>: Tildes are used to create strikethrough. Displayed as: <strike>strikethrough word</strike>.\n\n<code>||spoiler||</code>: Double vertical bars are used to create a spoiler. Displayed as: <spoiler>Spoiler</spoiler>.\n\n<code>[hyperlink](example)</code>: This is the formatting used to create a hyperlink.\n\n<code>Hallo Disini ~ [My Button|https://link.com]</code>: This is the formatting used to create a button.\n\nYou can also create callback_data buttons by using the <code>#</code> symbol at the beginning. For more information, please go to @KynanSupport for assistance."
+mark_2: "<b>Fillings</b>\n\nYou can also customize the content of your message with contextual data. For example, you can mention the username in a welcome message, or reference it in a filter!\n\n<b>Supported Fillings:</b>\n\n<code>{first}</code>: User's first name.\n<code>{last}</code>: User's last name.\n<code>{fullname}</code>: User's full name.\n<code>{username}</code>: User's username. If they don't have one, it will mention the user.\n<code>{mention}</code>: Mentions the user with their first name.\n<code>{id}</code>: User's ID.\n<code>{chatname}</code>: Chat's name."
+mark_3: "**To view markdown format please click on the button below.**"
+
+# sticker
+st_1: "{}**Please reply to a non-animated sticker!**"
+st_2: "{}**Emoji : {}\n{} Sticker ID : `{}`**"
+st_3: "{}**Please reply to the sticker you want to delete!**"
+st_4: "{}**Sticker successfully removed from your pack!**"
+st_5: "{}**Sticker deletion failed!**"
+st_6: "{}**Please reply to your sticker pack!!**"
+st_7: "{}**Please reply to a sticker or media!**"
+
+# Sudo
+sud_1: "{}**{} is already a sudo!**"
+sud_2: "{}**Added to sudo users : {}**"
+sud_3: "{}**{} is not a sudo user!**"
+sud_4: "{}**Removed from sudo users : {}**"
+sud_5: "{}**There are no sudo users!**"
+sud_6: "{}**Sudo Members :**\n\n{}"
+sud_7 : "{}**There's no Sudoers!**"
+
+# transfer
+tr_1: "{}**Use the format : `{}` [reply to message/give message].**"
+tr_2: "{}**Success\n\n`{}`**"
+tr_3: "{}**List of Language Codes :**\n\n{}"
+tr_4: "{}**Use the format : `{}` [language code].**"
+tr_5: "{}**Language code set to : `{}` - {}.**"
+tr_6: "{}**What kind of language code is that?**"
+
+# pref
+upref_2: "{}**Prefix set to: `{}`**"
+upref_1: "{}**Use format: `{}` [query]**"
+
+# vc
+vc_1: "{}**No voice chat found!\n`{}`**"
+vc_2: "{}**Starting voice chat.**"
+vc_3: "{}**Ending voice chat.**"
+vc_4: "{}**Use format: `{}` [voice chat title].**"
+vc_5: "{}**You are not an admin!!**"
+vc_6: "{}**Successfully changed voice chat title:\n`{}`.**"
+vc_7: "{}**Joined voice chat:\n`{}`.**"
+vc_8: "{}**Your account has already joined the voice chat!!**"
+vc_9: "{}**Left voice chat:\n`{}`.**"
+vc_10: "{}**Your account is not in any voice chat!**"
+vc_11: "{}<b>No active Voice chat on <code>{}</code></b>"
+vc_12: "{}<b>Your account is already in voice chat<code>{}</code></b>"
+vc_13: "{}<b>You are not in Voice Chat <code>{}</code></b>"
+
+#webss
+webs_1: "{}**Use format: `{}` [link].**"
+webs_2: "{}**Failed to fetch image!**"
+
+# profile
+prof_1: "{}**Please reply to the user's message or provide the username.**"
+prof_2: "{}**Successfully unblocked {}!**"
+prof_3: "{}**Successfully blocked {}!**"
+prof_4: "{}Successfully changed the name to `{}`."
+prof_5: "{}Successfully changed the first name to `{}` and the last name to `{}`."
+prof_6: "{}Successfully changed the bio to: `{}`."
+prof_7: "{}**You're not an admin in any group!**"
+prof_8: "{}**You're an admin in `{}` group(s) :**\n\n**{}**"
+prof_9: "{}**Your Profile Picture has been successfully changed.**"
+
+#waifu
+waif_1: "{}**Please select a category from the following list:**\n\n{}"
+waif_2: "{}**Failed to download image.**"
+waif_3: "{}**Failed to capture image.**"
+waif_4: "{}**Give numbers `1` - `30`**"
+waif_5: "Use : `{}` [query] [amount]\nExample: `{} oppai 3`\n\nAvailable tags:\n{}"
+waif_6: "{}Amount must be a number from `1` - `30`"
+waif_7: "{}Unable to get image"
+waif_8: "{}Successfully downloaded:\n\nName = {}\nDescription = {}\n"
+waif_11: "Upload = {}\n"
+waif_12: "{}Failed to get image."
+
+# qur'an
+qur_1: "{}Please give me name of surah."
+qur_2: "{}Failed to download audio."
+qur_3: "{}There's nothing surah with name '{}' "
+
+# pinterest
+pint_1: "{}**There's no Image or Video on URL Pinterest**"
+pint_2: "{}**Downloaded by : {}**"
+pint_3: "{}**Failed to catch donwload file from : `{}`**"
+pint_4: "{}**Something error while downloading : `{}`**"
+
+# base64
+enc_1: "{}**Successfully encoded :**\n`{}`"
+enc_2: "{}**Successfully decoded :**\n`{}`"
+enc_3: "{}**Failed {} pesan**"
+enc_4: "{}**Failed :** `{}`"
+enc_5: "{}**Please give some text or reply message.**"
+
+# effect
+konpert_1: "{}<b>Please reply to photo media</b>"
+konpert_2: "{}<b>Conversion Process ...</b>"
+konpert_3: "{}<b>Created by : {}</b>"
+konpert_4: "{}<b>Error, please try again later.</b>"
+konpert_5: "{}<b>Successfully converted by : {}</b>"
+konpert_6: "{}<b>Please reply to sticker!!</b>"
+konpert_7: "{}<b>Please reply to video media!!</b>"
+konpert_8: "{}<b>Audio Conversion Process ...</b>"
+konpert_9: "{}<b>Sending Audio File ...</b>"
+konpert_10: "{}<b>Sound Effect List:</b>\n\n{}"
+konpert_11: "{}<b>Process of changing sound to `{}` ...</b>"
+konpert_12: "{}<b>Successfully changed the audio effect to `{}`</b>"
+konpert_13: "{}<b>Please type `{}list-effects` to see the list of available effects</b>"
+konpert_14: "{}<b>There is a problem, please try again later or reboot.</b>"
+konpert_15: "{}<b>Incorrect command format.</b>"
+konpert_16: "{}<b>Failed to download image conversion results.</b>"
+konpert_17: "{}<b>Unable to find image conversion results.</b>"
+konpert_18: "{}<b>An error occurred while converting the image to anime.</b>"
+konpert_19: "{}<b>Here is a list of available styles:</b>\n\n{} {}"
+konpert_20: "{}<b>Successfully converted to Paragraph, by : {}\n\n`{}`"
+konpert_21: "{}<b>Successfully converted to Text, by :</b> {}\n\n`{}`"
+konpert_22: "{}<b>No text found in audio transcription.</b>"
+konpert_23: "{}<b>Please reply to the audio or voice message.</b>"
+konpert_24: "{}<b>Please reply to the message with audio or voice to transcribe it.</b>"
+
+# augcs
+augcs_1: "{}**To use this command, please add the auto gcast text first.**"
+augcs_2: "{}<b>Auto gcast activated successfully.</b>"
+augcs_3: "{}<b>Autocast to {}\n Send to: {Auto gcast successfully turned off} Group\n\nWait {} minutes to rerun the task.</b>"
+augcs_4: "{}<b>Auto gcast deactivated successfully.</b>"
+
+help_anm1: " **Animation 1\n\n• Command: `{0}love`\n• Description: Just try.\n\n• Command: `{0}loveyou`\n• Description: Just try.\n\n• Command: `{0}wink`\n• Description: Just try.\n\n• Command: `{0}hug`\n• Description: Just try.\n\n• Command: `{0}pat`\n• Description: Just try.\n\n• Command: `{0}pikachu`\n• Description: Just try.\n\n• Command: `{0}hmm`\n• Description: Just try.\n\n• Command: `{0}ahh`\n• Description: Just try.\n\n• Command: `{0}brain`\n• Description: Just try.**"
+help_anm2: " **Animation 2\n\n• Command: `{0}bomb`\n• Description: Just try.\n\n• Command: `{0}call`\n• Description: Just try.\n\n• Command: `{0}kill`\n• Description: Just try.\n\n• Command: `{0}wtf`\n• Description: Just try.\n\n• Command: `{0}ding`\n• Description: Just try.\n\n• Command: `{0}hypo`\n• Description: Just try.\n\n• Command: `{0}gang`\n• Description: Just try.\n\n• Command: `{0}char`\n• Description: Just try.\n\n• Command: `{0}kocok`\n• Description: Just try.**"
+help_anm3: " **Animation 3\n\n• Command: `{0}hack`\n• Description: Just try.\n\n• Command: `{0}kntl`\n• Description: Just try.\n\n• Command: `{0}titid`\n• Description: Just try.\n\n• Command: `{0}dino`\n• Description: Just try.\n\n• Command: `{0}syg`\n• Description: Just try.\n\n• Command: `{0}gbt`\n• Description: Just try.\n\n• Command: `{0}heli`\n• Description: Just try.\n\n• Command: `{0}tembak`\n• Description: Just try.\n\n• Command: `{0}bundir`\n• Description: Just try.**"
+help_anm4: " **Animation 4\n\n• Command: `{0}awk`\n• Description: Just try.\n\n• Command: `{0}y`\n• Description: Just try.\n\n• Command: `{0}tank`\n• Description: Just try.\n\n• Command: `{0}babi`\n• Description: Just try.\n\n• Command: `{0}ajg`\n• Description: Just try.\n\n• Command: `{0}nah`\n• Description: Just try.\n\n• Command: `{0}santet`\n• Description: Just try.**"
+help_tox1: " **Toxic 1\n\n• Command: `{0}a` - `z`\n• Description: Try it yourself."
+help_tox2: " **Toxic 2\n\n• Command: `{0}ngentot`\n• Description: Try it yourself.\n\n• Command: `{0}goblok`\n• Description: Try it yourself.\n\n• Command: `{0}ngatain`\n• Description: Try it yourself.\n\n• Command: `{0}yatim`\n• Description: Try it yourself.\n\n• Command: `{0}kont`\n• Description: Try it yourself.**"
+help_tox3: " **Toxic 3\n\n• Command: `{0}ceking`\n• Description: Try it yourself.\n\n• Command: `{0}hina`\n• Description: Try it yourself.\n\n• Command: `{0}ngaca`\n• Description: Try it yourself.**"
+help_tox4: " **Toxic 4\n\n• Command: `{0}sadboy`\n• Description: Try it yourself.\n\n• Command: `{0}lah`\n• Description: Try it yourself.\n\n• Command: `{0}sok`\n• Description: Try it yourself.\n\n• Command: `{0}wah`\n• Description: Try it yourself.\n\n• Command: `{0}alay`\n• Description: Try it yourself.\n\n• Command: `{0}erpe`\n• Description: Try it yourself.\n\n• Command: `{0}tittle`\n• Description: Try it yourself.**"
+help_tox5: " **Toxic 5\n\n• Command: `{0}lipkol`\n• Description: Try it yourself.\n\n• Command: `{0}nakal`\n• Description: Try it yourself.\n\n• Command: `{0}favboy`\n• Description: Try it yourself.\n\n• Command: `{0}favgirl`\n• Description: Try it yourself.\n\n• Command: `{0}canlay`\n• Description: Try it yourself.\n\n• Command: `{0}ganlay`\n• Description: Try it yourself.\n\n• Command: `{0}ange`\n• Description: Try it yourself.**"
+help_tox6: " **Toxic 6\n\n• Command: `{0}mix`\n• Description: Try it yourself.\n\n• Command: `{0}sayangg`\n• Description: Try it yourself.\n\n• Command: `{0} semangat`\n• Description: Try it yourself.\n\n• Command: `{0}mengeluh`\n• Description: Try it yourself.**"
+help_tox7: " **Toxic 7\n\n• Command: `{0}ywc`\n• Description: Try it yourself.\n\n• Command: `{0}jamet`\n• Description: Try it yourself.\n\n• Command: `{0}pp`\n• Description: Try it yourself.\n\n• Command: `{0}dp`\n• Description: Try it yourself.\n\n• Command: `{0}so`\n• Description: Try it yourself.\n\n• Command: `{0}met`\n• Description: Try it yourself.\n\n• Command: `{0}war`\n• Description: Try it yourself.\n\n• Command: `{0}wartai`\n• Description: Try it yourself.\n\n• Command: `{0}kismin`\n• Description: Try it yourself.\n\n• Command: `{0}ded`\n• Description: Try it yourself.\n\n• Command: `{0}sokab`\n• Description: Try it yourself.\n\n• Command: `{0}gembel`\n• Description: Try it yourself.\n\n• Command: `{0}cuih`\n• Description: Try it yourself.\n\n• Command: `{0}dih`\n• Description: Try it yourself.\n\n• Command: `{0}skb`\n• Description: Try it yourself.\n\n• Command: `{0}virtual`\n• Description: Try it yourself.**"
+help_tox8: " **Toxic 8\n\n• Command: `{0}ganteng`\n• Description: Try it yourself.\n\n• Command: `{0}wibu`\n• Description: Try it yourself.\n\n• Command: `{0}ssenggol`\n• Description: Try it yourself.**"
+help_tox9: " **Toxic 9\n\n• Command: `{0}cacad`\n• Description: Try it yourself.\n\n• Command: `{0}hayo`\n• Description: Try it yourself.**"
+
+
+help_afk: |
+  ⪼️ **--Docs for Afk--**
+
+  <blockquote><b>ᐈ Command:</b> `{0}afk` [reason]
+  <b>ᐉ Description:</b> --__To activate afk mode.__--</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}unafk`
+  <b>ᐉ Description:</b> --__To unactivate afk mode.__--</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}afkdel` [on or off]
+  <b>ᐉ Description:</b> --__To automation text afk delete.__--</blockquote>
+help_webshot: |
+  ⪼️ **--Docs for Webshot--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}webss` or `{0}ss`
+  <b>ᐉ Description:</b> __--To take a screenshot of a link.--__</blockquote>
+help_vcs: |
+  ⪼️ --**Docs for Voice Chat**--
+
+  <blockquote><b>ᐈ Command:</b> `{0}startvc`
+  <b>ᐉ Description:</b> --__To start a group voice chat.__--</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}stopvc`
+  <b>ᐉ Description:</b> __--To end a group voice chat.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}joinvc`
+  <b>ᐉ Description:</b> __--To join a group voice chat.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}leavevc`
+  <b>ᐉ Description:</b> __--To leave a group voice chat.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}vctitle`
+  <b>ᐉ Description:</b> __--To change group voice chat title.--__</blockquote>
+help_upref: |
+  ⪼️ --**Docs for Prefixes**--
+  
+  <blockquote><b>ᐈ Command:</b> `{0}setprefix` [trigger]
+  <b>ᐉ Description:</b> __--To set your userbot handler.--__</blockquote>
+help_emoji: |
+  ⪼️ **--Docs for Emoji--**
+
+  <blockquote><b>ᐈ Command:</b> `{0}emoji` [variable] [value]
+  <b>ᐉ Description:</b> __--To change the appearance of emoji.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}settext` [value] [text]
+  <b>ᐉ Description:</b> __--To change the appearance of text ping.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}emoid` [reply emoji]
+  <b>ᐉ Description:</b> __--To change the appearance of emoji.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}getemo`
+  <b>ᐉ Description:</b> __--To view the appearance of emoji.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}setemo`
+  <b>ᐉ Description:</b> __--To set the emoji status in profil.--__</blockquote>
+  >📋 **--Example-- :**
+  >➡️ `{0}emoji ping 🏓` | ➡️ `{0}emoji pong 🥵` | ➡️ `{0}emoji proses 🔄` | ➡️ `{0}emoji sukses ✅` | ➡️ `{0}emoji gagal ❌` | ➡️ `{0}emoji profil 👤` | ➡️ `{0}emoji owner ⭐` | ➡️ `{0}emoji warn ‼️` | ➡️ `{0}emoji block ⛔`
+  >➡️ `{0}settext pong yameteh` | ➡️ `{0}settext uptime nani ?` | ➡️ `{0}settext owner sugiono` | ➡️ `{0}settext ubot KN-Userbot` | ➡️ `{0}settext proses bentar kontol` | ➡️ `{0}settext sukses udah memeg`
+help_tiny: |
+  ⪼️ **--Docs for Tiny--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}tiny` [reply photo/stickers]
+  <b>ᐉ Description:</b> __--To resize photo or sticker.--__</blockquote>
+help_terjemah: |
+  ⪼️️ **--Docs for Translate--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}tts`
+  <b>ᐉ Description:</b> __--To convert text into voice.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}tr`
+  <b>ᐉ Description:</b> __--To translate text language.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}lang`
+  <b>ᐉ Description:</b> __--To view the list and language codes.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}setlang`
+  <b>ᐉ Description:</b> __--To set the language code for tts and tr.--__</blockquote>
+help_sudo: |
+  ⪼️️ **--Docs for Sudo--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}addsudo` [reply user]
+  <b>ᐉ Description:</b> __--To add sudo users.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}delsudo` [reply user]
+  <b>ᐉ Description:</b> __--To delete sudo users.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}sudolist`
+  <b>ᐉ Description:</b> __--To view the list of sudo users.--__</blockquote>
+help_sticker: |
+  ⪼️ **--Docs for Sticker--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}gstik` [reply sticker]
+  <b>ᐉ Description:</b> __--Retrieve sticker information.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}kang` [reply sticker]
+  <b>ᐉ Description:</b> __--Steal or create your own sticker pack.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}unkang` [reply sticker]
+  <b>ᐉ Description:</b> __--Remove existing sticker/sticker pack.--__</blockquote>
+help_spy: |
+  ⪼️ **--Docs for Spy--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}spy`
+  <b>ᐉ Description:</b> __--Steal pap timer (not just a one-time view).--__</blockquote>
+help_spam: |
+  ⪼️ **--Docs for Spam--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}dspam` [amount] [delay time] [reply message]
+  <b>ᐉ Description:</b> __--Perform spam with delay.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}spam` [amount] [word]
+  <b>ᐉ Description:</b> __--Perform spam.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}cspam`
+  <b>ᐉ Description:</b> __--Stop spam.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}dspamfw` [amount] [delay time] [public channel link]
+  <b>ᐉ Description:</b> __--Perform spam with delay and forward a public channel link.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}bcfw` [amount] [delay time] [public channel link]
+  <b>ᐉ Description:</b> __--Perform spam with delay and forward a public channel link for group in database.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}addfw`
+  <b>ᐉ Description:</b> __--Added group to database bcfw.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}delfw` [id group] [delay time] [public channel link]
+  <b>ᐉ Description:</b> __--Delete group to database bcfw.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}listfw`
+  <b>ᐉ Description:</b> __--Get list group from database bcfw.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}clearfw`
+  <b>ᐉ Description:</b> __--Delete all groups in database bcfw.--__</blockquote>
+help_shid: |
+  ⪼️ **--Docs for ShowID--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}id`
+  <b>ᐉ Description:</b> --__View id user or group and channel .__--</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}gifid`
+  <b>ᐉ Description:</b> __--View GIF ID.--__</blockquote>
+help_secret: |
+  ⪼️ **--Docs for SecretMsg--**
+  
+   <blockquote><b>ᐈ Command:</b> `{0}msg` - [reply user] [text]
+   <b>ᐉ Description:</b> __--For secret message.--__</blockquote>
+help_sg: |
+  ⪼️ **--Docs for SangMata--**
+  
+  <blockquote><b>ᐈ Command:</b> <code>{0}sg</code> [username//reply user]
+  <b>ᐉ Description:</b> __--To view the history of username or User's name usage.--__</blockquote>
+help_rest: |
+  ⪼️ **--Docs for Restrict--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}ban or delban`
+  <b>ᐉ Description:</b> __--Ban a user.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}kick or delkick`
+  <b>ᐉ Description:</b> __--Kick a user.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}mute or delmute`
+  <b>ᐉ Description:</b> __--Mute a user.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}unmute`
+  <b>ᐉ Description:</b> __--Unmute a user.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}unban`
+  <b>ᐉ Description:</b> __--Unban a user.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}promote` or `{0}fullpromote`
+  <b>ᐉ Description:</b> __--Promote an admin or co-founder.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}demote`
+  <b>ᐉ Description:</b> __--Demote an admin.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}title`
+  <b>ᐉ Description:</b> __--Change a user's admin title.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}zombies`
+  <b>ᐉ Description:</b> __--Remove deleted accounts.--__</blockquote>
+help_quran: |
+  ⪼️ **--Docs for Qur'an--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}qs [name of surah]`
+  <b>ᐉ Description:</b> __--Fetching information of Surah.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}list-surah`
+  <b>ᐉ Description:</b> __--Getting List of Surah Al-Quran.--__</blockquote>
+help_quot: |
+  ⪼️ **--Docs for Quotly--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}q` [reply to message]
+  <b>ᐉ Description:</b> __--Create text quotes.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}qcolor`
+  <b>ᐉ Description:</b> __--View background color format for quotes.--__</blockquote>
+  >📋 **--Example Usage-- :**
+  >➡️ `{0}q @username` | `{0}q color` | `{0}q @username color`
+help_prof: |
+  ⪼️ **--Docs for Profile--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}meadmin`
+  <b>ᐉ Description:</b> __--View the admin status of your group.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}setbio`
+  <b>ᐉ Description:</b> __--Change your bio.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}setname`
+  <b>ᐉ Description:</b> __--Change your name.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}setpp`
+  <b>ᐉ Description:</b> __--Change your profile picture.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}block`
+  <b>ᐉ Description:</b> __--Block a user.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}unblock`
+  <b>ᐉ Description:</b> __--Unblock a user.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}purgeme`
+  <b>ᐉ Description:</b> __--Unblock yourself.--__</blockquote>
+help_pmpermit: |
+  ⪼️ **--Docs for PMPermit--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}pmpermit` [query] [value]
+  <b>ᐉ Description:</b> __--To settings PMPermit--__.</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}ok or setuju`
+  <b>ᐉ Description:</b> __--Approve a message.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}no or tolak`
+  <b>ᐉ Description:</b> __--Reject a message.--__</blockquote>
+  >📋 **--Optional Query PMPermit-- :**
+  >➡️ `set` [on or off] | `get` [status, pic, teks, or limit] | `limit` | `teks` | `pic`
+  >📋 --**Text into Button**-- :
+  >➡️ __--To find out the format of the text into a button, please type--__ `{0}markdown`
+help_paste: |
+  ⪼️ **--Docs for Pastebin--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}paste` [reply message]
+  <b>ᐉ Description:</b> __--Upload text to Pastebin.--__</blockquote>
+help_tagall: |
+  ⪼️ **--Docs for Mention--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}all` [Text]
+  <b>ᐉ Description:</b> __--For mention all member in group.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}stoptag`
+  <b>ᐉ Description:</b> __--For stoping procces mention all.--__</blockquote>
+help_mmf: |
+  ⪼️ **--Docs for For Memify--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}mmf` [reply sticker]
+  <b>ᐉ Description:</b> __--Add text to sickers.--__</blockquote>
+  >📋 **--Example Command-- :**
+  >➡️ `{0}mmf teks atas; teks bawah`
+help_mark: |
+  ⪼️ **--Docs for Markdown--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}markdown`
+  <b>ᐉ Description:</b> __--View button formatting.--__</blockquote>
+help_locks: |
+  ⪼️ **--Docs for Locks--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}locktypes`
+  <b>ᐉ Description:</b> __--View lock arguments.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}lock`
+  <b>ᐉ Description:</b> __--Lock permissions.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}unlock`
+  <b>ᐉ Description:</b> __--Unlock permissions.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}locks`
+  <b>ᐉ Description:</b> __--View all permissions.--__</blockquote>
+help_limit: |
+  ⪼️ **--Docs for Spambot--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}limit`
+  <b>ᐉ Description:</b> __--Check if your account is limited or not.--__</blockquote>
+help_join: |
+  ⪼️ **--Docs for Join--**
+  
+  <blockquote><b>ᐈ Command:</b> <code>{0}join</code> [query]
+  <b>ᐉ Description:</b> __--For join to group or channel.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> <code>{0}leave</code> [grup or ch]
+  <b>ᐉ Description:</b> __--For leave group or channel except your is admin.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> <code>{0}leavemute</code>
+  <b>ᐉ Description:</b> __--For leave from group if you has been mute.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> <code>{0}kickme</code> [username or link]
+  <b>ᐉ Description:</b> __--For leave from channel or group.--__</blockquote>
+help_invite: |
+  ⪼️ **--Docs for Invite--**
+  
+  <blockquote><b>ᐈ Command:</b> <code>{0}invite</code>
+  <b>ᐉ Description:</b> --__To invite someone to the group/channel.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> <code>{0}getlink</code>
+  <b>ᐉ Description:</b> __--To get the chat invite link.--__</blockquote>
+help_info: |
+  ⪼️ **--Docs for Info--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}staff`
+  <b>ᐉ Description:</b> __--For getting List Admins on groups.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}info`
+  <b>ᐉ Description:</b> __--To view user info.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}cinfo`
+  <b>ᐉ Description:</b> __--To view group info.--__</blockquote>
+help_img: |
+  ⪼️ **--Docs for Image--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}`img [query]
+  <b>ᐉ Description:</b> --__Searching image.__--</blockquote>
+help_grup: |
+  ⪼️ **--Docs for Group--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}purge`
+  <b>ᐉ Description:</b> __--Delete all replied messages.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}del`
+  <b>ᐉ Description:</b> __--Delete a message.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}report`
+  <b>ᐉ Description:</b> __--Report a user.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}gctitle`
+  <b>ᐉ Description:</b> __--Change the group name.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}gcdes`
+  <b>ᐉ Description:</b> __--Change the group description.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}gcpic`
+  <b>ᐉ Description:</b> __--Change the group photo.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}getlink or invitelink`
+  <b>ᐉ Description:</b> __--Get the group link.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}pin or unpin`
+  <b>ᐉ Description:</b> __--Pin or unpin a group message.--__</blockquote>
+help_gruplog: |
+  ⪼️ **--Docs for GroupLog--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}gruplog` [on/off]
+  <b>ᐉ Description:</b> --__Activate gruplog for incoming message from group and private chat.__--</blockquote>
+help_graph: |
+  ⪼️ **--Docs for Telegraph--**
+  
+  <b>ᐈ Command:</b> `{0}tg` [reply message]
+  <b>ᐉ Description:</b> --__To upload text, video, or photo.__--
+help_global: |
+  ⪼️ --**Docs for Global**--
+  
+  <blockquote><b>ᐈ Command:</b> `{0}gban` [username/reply to user]
+  <b>ᐉ Description:</b> __--To perform a global ban.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}ungban` [username/reply to message]
+  <b>ᐉ Description:</b> __--To perform a global unban.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}listgban` [username/reply to message]
+  <b>ᐉ Description:</b> __--To view the list of gban users.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}gmute` [username/reply to message]
+  <b>ᐉ Description:</b> --__To perform a global mute.__--</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}ungmute` [username/reply to message]
+  <b>ᐉ Description:</b> __--To perform a global unmute.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}listgmute` [username/reply to message]
+  <b>ᐉ Description:</b> --__To view the list of gmute users.__--</blockquote>
+help_chatgpt: |
+  ⪼️ **--Docs for ChatGpt--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}gemini` [question or reply msg]
+  <b>ᐉ Description:</b> __--For answer to Ai  Gemini by Google.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}ai` [question or reply msg]
+  <b>ᐉ Description:</b> __--For answer to Ai by ChatGpt.--__</blockquote>
+help_spmgcs: |
+  ⪼️ **--Docs for Spam Gcast--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}spamgc` [angka] - [text/reply]
+  <b>ᐉ Description:</b> --__For Spam Gcast.__--</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}spamg` [angka] - [text/reply]
+  <b>ᐉ Description:</b> __--To Spam Gcast In Real Time.--__</blockquote>
+  <blockquote> <b>ᐈ Command:</b> `{0}setdelay` [angka]
+  <b>ᐉ Description:</b> __--Delay every gcast spam message.--__</blockquote>
+  >⛔ **--Warning-- :**
+  >➡️ --__Don't use this feature too often, it might cause your account to be permanently limited or your account could be deleted!!__--
+help_gcast: |
+  ⪼️ **--Docs for Broadcast--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}gcast` [reply to message/message]
+  <b>ᐉ Description:</b> __--To broadcast message group.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}ucast` [reply to message/message]
+  <b>ᐉ Description:</b> __--To broadcast messages users.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}bc` [query] [reply to message/message]
+  <b>ᐉ Description:</b> --__To broadcast messages users, group or all.__--</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}addbl`
+  <b>ᐉ Description:</b> __--Add a group to the blacklist broadcast list.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}delbl`
+  <b>ᐉ Description:</b> __--Remove a group from the blacklist broadcast list.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}rmall`
+  <b>ᐉ Description:</b> __--Remove all groups from the blacklist broadcast list.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}listbl`
+  <b>ᐉ Description:</b> __--View the list of blacklist broadcast groups.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}send` [username/user_id - text/reply]
+  <b>ᐉ Description:</b> __--To send a message to a user/group/channel.--__</blockquote>
+help_games: |
+  ⪼️ **--Docs for Games--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}dice`
+  <b>ᐉ Description:</b> __--To roll the dice randomly.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}dart`
+  <b>ᐉ Description:</b> __--To Throw a Darts.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}bowling`
+  <b>ᐉ Description:</b> --__To throw a bowling ball.__--</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}football`
+  <b>ᐉ Description:</b> __--For playing a football.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}slot`
+  <b>ᐉ Description:</b> __--For playing a game slot.--__</blockquote>
+help_font: |
+  ⪼️ **--Docs for Font--**
+  
+  <blockquote><b>ᐈ Command:</b> <code>{0}font</code> [balas pesan/berikan teks]
+  <b>ᐉ Description:</b> __--Untuk merubah teks dengan costum font.--__</blockquote>
+help_func: |
+  ⪼ --Docs for Fake Action--
+    
+  <blockquote><b>ᐈ Command:</b> {0}gben [reply message]
+  <b>ᐉ Description:</b> --To pretend to do a global ban.--</blockquote>   
+  <blockquote><b>ᐈ Command:</b> {0}gkik [reply message]
+  <b>ᐉ Description:</b> --To pretend to do a global kick.--</blockquote>      
+  <blockquote><b>ᐈ Command:</b> {0}gmut [reply message]
+  <b>ᐉ Description:</b> --To pretend to do global mute.--</blockquote>     
+  <blockquote><b>ᐈ Command:</b> {0}ftf [username or reply to message] [nominal]
+  <b>ᐉ Description:</b> --To pretend to make a Money Transfer.--</blockquote>
+help_donlod: |
+  ⪼️ --**Docs for Download**--
+  
+  <blockquote><b>ᐈ Command:</b> `{0}dtik` [link tiktok]
+  <b>ᐉ Description:</b> --__For Download media from tiktok.__--</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}vtube` [query]
+  <b>ᐉ Description:</b> __--For Download videos from YouTube.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}stube` [query]
+  <b>ᐉ Description:</b> __--For Download Song from YouTube.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}ytdl` [link url]
+  <b>ᐉ Description:</b> __--For download Video from YouTube.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}insta` [link instagram]
+  <b>ᐉ Description:</b> __--For Download media from Instagram.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}twit` [link Twitter
+  <b>ᐉ Description:</b> __--For Downloading Media from Twitter.--__</blockquote>
+help_content: |
+  ⪼️ **--Docs for Content--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}copy` [link]
+  <b>ᐉ Description:</b> __--To fetch messages via Telegram link.--__</blockquote>
+help_convert: |
+  ⪼️ --**Docs for Convert**--
+  
+  <blockquote><b>ᐈ Command:</b> `{0}stt` [audio reply]
+  <b>ᐉ Description:</b> __--To change audio to text.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}toanime` [media reply]
+  <b>ᐉ Description:</b> __--To change the reply media to anime.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}toimg` [reply to sticker]
+  <b>ᐉ Description:</b> __--To change a sticker into a photo.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}tosticker` or `{0}tostick` [reply to photo]
+  <b>ᐉ Description:</b> --__To change an image/photo into a sticker.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}togif` [reply to sticker]
+  <b>ᐉ Description:</b> __--To change the sticker to GIF.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}toaudio` [reply to video]
+  <b>ᐉ Description:</b> __--To convert video to audio.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}list-efek`
+  <b>ᐉ Description:</b> __--To display a list of available audio effects.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}effect` [effect-names] [audio reply]
+  <b>ᐉ Description:</b> __--To change the audio effect.--__</blockquote>
+help_button: |
+  ⪼️ --**Docs for Button**--
+  
+  <blockquote><b>ᐈ Command:</b> `{0}button` [reply to message]
+  <b>ᐉ Description:</b> __--Create text buttons.--__</blockquote>
+  >📋 --**Text into Button**-- :
+  >➡️ __--To find out the format of the text into a button, please type--__ `{0}markdown`
+help_cc: |
+  ⪼️ **--Docs for ClearChat--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}endchat` [username/reply to user]
+  <b>ᐉ Description:</b> --__To delete chat history.__--</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}cc` [username/reply to user]
+  <b>ᐉ Description:</b> --__To delete all message user in group.__--</blockquote>
+  >📋 **--Optional Query-- :**
+  >➡️ `username/reply to user` | `bot` | `all`
+help_augcs: |
+  ⪼ **--Docs for AutoGcast--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}autogcast` [query and value]
+  <b>ᐉ Description:</b> --__Enable auto broadcast.__--</blockquote>
+  >📋 **--Optional Query-- :**
+  >➡️ `on` | `off` | `delay` [int] | `add` [reply text] | `del` [number or all] | `get` | `limit` [on or off]
+help_notes: |
+  ⪼️ **--Docs for Notes--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}save` [note name] [reply message]
+  <b>ᐉ Description:</b> __--Save a note.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}get` [note name]
+  <b>ᐉ Description:</b> __--Get a note.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}clear` [note name]
+  <b>ᐉ Description:</b> __--Delete a note.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}notes`
+  <b>ᐉ Description:</b> __--View all notes.--__</blockquote>
+  >📋 --**Text into Button**-- :
+  >➡️ __--To get noformat notes you can type `{0}get` [note name] noformat--__
+  >➡️ __--To find out the format of the text into a button, please type--__ `{0}markdown`
+
+help_qr: |
+  ⪼️ --**Docs for QrCode**--
+  
+  <blockquote><b>ᐈ Command:</b> `{0}qrgen` [reply to text message]
+  <b>ᐉ Description:</b> __--Make qr text into an image.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}qrread` [reply to image message]
+  <b>ᐉ Description:</b> __--Make qr image into text.--__</blockquote>
+help_ocr: |
+  ⪼️ --**Docs for Ocr**--
+  
+  <blockquote><b>ᐈ Command:</b> `{0}read` or `{0}ocr` [reply to media message]
+  <b>ᐉ Description:</b> __--To retrieve text from media.--__</blockquote>
+help_supan: |
+  ⪼️ --**Docs for Asupan**--
+  
+  <blockquote><b>ᐈ Command:</b> `{0}asupan` [query]
+  <b>ᐉ Description:</b> __--To take random intake from TikTok.--__</blockquote>
+  >📋 --<b>Query<b>-- :
+  >➡️ `hijaber` | `ukhty` | `cecan` | `santuy` `tiktok username`
+help_kodam: |
+  ⪼️ --**Docs for Khodam**--
+  
+  <blockquote><b>ᐈ Command:</b> `{0}khodam` [reply user]
+  <b>ᐉ Description:</b> __--To check the user's khodam.--__</blockquote>
+help_porn: |
+  ⪼️ --**Docs for Pornhub**--
+  
+  <blockquote><b>ᐈ Command:</b> `{0}xnxx` [query]
+  <b>ᐉ Description:</b> __--For masturbation.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}xvideos` [query]
+  <b>ᐉ Description:</b> __--For masturbation.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}pornhub` [query]
+  <b>ᐉ Description:</b> __--For masturbation.--__</blockquote>
+help_pinter: |
+  ⪼️ --**Docs for Pinterest**--
+  
+  <blockquote><b>ᐈ Command:</b> `{0}pinter` or `{0}pinterest` [query]
+  <b>ᐉ Description:</b> __--For search images on pinterest with query.--__</blockquote>
+
+help_spotify: |
+  ⪼️ --**Docs for Spotify**--
+  
+  <blockquote><b>ᐈ Command:</b> `{0}spotify` [lyrics]
+  <b>ᐉ Description:</b> __--To search for songs on spotify.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}spotify -dl` [link]
+  <b>ᐉ Description:</b> __--To download the song track from the spotify link.--__</blockquote>
+
+help_chates: |
+  ⪼️ --**Docs for Chats**--
+  
+  <blockquote><b>ᐈ Command:</b> `{0}cekmember`
+  <b>ᐉ Description:</b> __--To see the total members in the group.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}cekonline`
+  <b>ᐉ Description:</b> __--To see the total online members in the group.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}cekmsg` [username/userreply]
+  <b>ᐉ Description:</b> __--To see the total number of user messages in the group.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}cekos`
+  <b>ᐉ Description:</b> __--To see the total users in the group voice chat.--__</blockquote>
+  
+help_anim: |
+  ⪼️ **--Docs for Animation--**
+
+  <blockquote><b>ᐈ Command:</b>
+  `{0}love` `{0}loveyou` `{0}wink` `{0}hug` `{0}pat`
+  <b>ᐉ Description:</b> --__Just try it.__--</blockquote>
+  <blockquote><b>ᐈ Command:</b>
+  `{0}pikachu` `{0}hmm` `{0}ahh` `{0}brain` `{0}bomb`
+  <b>ᐉ Description:</b> --__Just try it.__--</blockquote>
+  <blockquote><b>ᐈ Command:</b>
+  `{0}call` `{0}kill` `{0}wtf` `{0}ding` `{0}hypo`
+  <b>ᐉ Description:</b> --__Just try it.__--</blockquote>
+  <blockquote><b>ᐈ Command:</b>
+  `{0}gang` `{0}char` `{0}shuffle` `{0}hack` `{0}kntl`
+  <b>ᐉ Description:</b> --__Just try it.__--</blockquote>
+  <blockquote><b>ᐈ Command:</b>
+  `{0}titid` `{0}dino` `{0}syg` `{0}gbt` `{0}heli`
+  <b>ᐉ Description:</b> --__Just try it.__--</blockquote>
+  <blockquote><b>ᐈ Command:</b>
+  `{0}shoot` `{0}bundir` `{0}awk` `{0}tank` `{0} pig`
+  <b>ᐉ Description:</b> --__Just try it.__--</blockquote>
+  <blockquote><b>ᐈ Command:</b>
+  `{0}ajg` `{0}nah` `{0}witchcraft`
+  <b>ᐉ Description:</b> --__Just try it.__--</blockquote>
+
+intruk_khodam: |
+  You are a psychic who is able to describe someone's khodam in the form of an animal. Your task is to describe the khodam that may exist, including its form, properties and the energy it emits. So whatever the input is, assume it is a person's name. The description doesn't have to be positive, it can be negative, it doesn't matter because this is entertainment. This is just for entertainment so feel free to be a psychic in general. Describe Khodam briefly but clearly, and make sure the description does not exceed 2000 alphabet characters in plain text and in English.
+
+help_auser: |
+  ⪼️ --**Docs for AntiUser**--
+  
+  <blockquote><b>ᐈ Command:</b> `{0}addgagu` [reply user/username]
+  <b>ᐉ Description:</b> __--To add dumb users.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}delgagu` [reply user/username]
+  <b>ᐉ Description:</b> __--To delete the stupid user.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}listgagu`
+  <b>ᐉ Description:</b> __--To see a list of gagu users.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}cleargagu`
+  <b>ᐉ Description:</b> __--To delete all the list of dumb users.--__</blockquote>
+help_chatbot: |
+  ⪼️ --**Docs for ChatBot**--
+  
+  <blockquote><b>ᐈ Command:</b> `{0}addchatbot`
+  <b>ᐉ Description:</b> __--To add a group to the chatbot.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}delchatbot` [chat id]
+  <b>ᐉ Description:</b> __--To delete a group from the chatbot.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}listchatbot`
+  <b>ᐉ Description:</b> __--To see the list of chatbot groups.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}clearchatbot`
+  <b>ᐉ Description:</b> __--To delete all groups from the chatbot.--__</blockquote>
+help_autoread: |
+  ⪼️ --**Docs for AutoRead**--
+  
+  <blockquote><b>ᐈ Command:</b> `{0}autoread` [query] [on or off]
+  <b>ᐉ Description:</b> __--To read all messages on your account..--__</blockquote>
+  >📋 <b>--Optional Query-- :<b>
+  >➡️ `time` | `gc` | `tag` | `ch` | `us` | `bot` | `all`
+  
+help_spamsch: |
+  ⪼️ **--Docs for Spamsch--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}addsch` [sch name] [reply message]
+  <b>ᐉ Description:</b> __--Adding sch records to the database.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}getsch` [sch name]
+  <b>ᐉ Description:</b> __--Retrieves sch records from the database.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}listsch`
+  <b>ᐉ Description:</b> __--Viewing sch records to the database.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}clearsch` [sch name]
+  <b>ᐉ Description:</b> __--Deletes sch records from the database.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}delaysch` [number]
+  <b>ᐉ Description:</b> __--Setting the interval time sch.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}bcsch` [sch name]
+  <b>ᐉ Description:</b> __--Starting schedule message.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}bcfw` [amount] [pause] [channel post link]
+  <b>ᐉ Description:</b> __--Starts spam forwards to groups in the database.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}addspm`
+  <b>ᐉ Description:</b> __--Add group to database.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}delspm` [group id]
+  <b>ᐉ Description:</b> __--Delete group from database.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}listspm`
+  <b>ᐉ Description:</b> __--Get list group from database.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}clearspm`
+  <b>ᐉ Description:</b> __--Delete all groups in the database.--__</blockquote>
+  
+sch_1: "{}**Use format : `{}` [sch name] [reply to message].**"
+sch_2: "{}**Text cannot be empty.**"
+sch_3: "{}**Schedule text `{}` saved successfully.**"
+sch_4: "{}**Give a name to the schedule!**"
+sch_5: "{}**Schedule name `{}` not found!**"
+sch_6: "{}**Not a single schedule!**"
+sch_7: "{}**List of Schedules :**\n\n"
+sch_8: "**• `{}`**\n"
+sch_9: "{}**What schedule do you want to delete?**"
+sch_10: "{}**Schedule `{}` does not exist!**"
+sch_11: "{}**Schedule `{}` deleted successfully.**"
+sch_12: "{}**Schedule `{}` already exists.**"
+sch_13: "{}**Provide the name of the spam you want to send.**"
+sch_14: "{}**Message schedule has started, please check the groups in the sch database.**"
+
+
+prn_1: "{}<b>Use example format: `{} big tits`</b>"
+prn_2: "{}<b>Limit reached!! Please try again tomorrow or contact @kenapanan to open the limit</b>"
+help_stream: |
+  ⪼️ **--Docs for Streaming--**
+  
+  <blockquote><b>ᐈ Command:</b> `{0}play` or `{0}cplay`[title or reply media ]
+  <b>ᐉ Description:</b> __--Stream media with title or media reply.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}end` or `{0}cend`
+  <b>ᐉ Description:</b> __--Stops streaming playback.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}pause` or `{0}cpause`
+  <b>ᐉ Description:</b> __--Pauses the current stream.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}skip` or `{0}cskip`
+  <b>ᐉ Description:</b> __--Skip the current streaming track.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}resume` or `{0}cresume`
+  <b>ᐉ Description:</b> __--Resume paused streaming.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}playlist` or `{0}cplaylist`
+  <b>ᐉ Description:</b> __--Viewing the streaming track list.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}channelplay` [channel username/channel id]
+  <b>ᐉ Description:</b> __--To link channel play mode.--__</blockquote>
+  
+  
+help_create: |
+  ⪼ --**Docs for Create**--
+  
+  <blockquote><b>ᐈ Command:</b> `{0}create` [gc] [name]
+  <b>ᐉ Description:</b> __--To create a group.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}create` [ch] [name]
+  <b>ᐉ Description:</b> __--To create a channel.--__</blockquote>
+  
+help_carbon: |
+  ⪼ --**Doc for Carbon**--
+  
+  <blockquote><b>ᐈ Command:</b> `{0}carbon` [reply text message]
+  <b>ᐉ Description:</b> __--To make the text carbonara.--__</blockquote>
+  
+  
+help_base: |
+  ⪼ --**Docs for Base64**--
+  
+  <blockquote><b>ᐈ Command:</b> `{0}encode` [reply message text]
+  <b>ᐉ Description:</b> __--To encode text.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}decode` [reply message text]
+  <b>ᐉ Description:</b> __--To decode text.--__</blockquote>
+  
+help_archive: |
+  ⪼ --**Docs for Archive**--
+  
+  <blockquote><b>ᐈ Command:</b> `{0}arsip` [query]
+  <b>ᐉ Description:</b> __--To archive chats.--__</blockquote>
+  <blockquote><b>ᐈ Command:</b> `{0}unarsip` [query] [name]
+  <b>ᐉ Description:</b> __--To unarchive the chat.--__</blockquote>
+
+help_sing: |
+  ⪼ --**Dokumen untuk Singing**--
+  
+  <blockquote><b>ᐈ Command:</b> `{0}chord` [query]
+  <b>ᐉ Keterangan:</b> __--Find chord songs.--__</blockquote>
+  <blockquote><b>ᐈ Perintah:</b> `{0}lirik` [query]
+  <b>ᐉ Keterangan:</b> __--Find lyric songs.--__</blockquote>
+
+help_calc: |
+  ⪼ --**Documents for Calculator**--
+  
+  <blockquote><b>ᐈ Command:</b> `{0}calc` or `{0}kalkulator`
+  <b>ᐉ Description:</b> __--To find out how to count money.--__</blockquote>

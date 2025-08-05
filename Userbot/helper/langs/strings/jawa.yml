@@ -1,0 +1,1392 @@
+natively: Jawa Ngoko-Alus
+name: 🏴‍☠️ Jawa
+
+authors:
+  - Kenan
+  - Zeeb
+  - er
+
+lim_er: "<b>{} Kayane akun sampeyan dibatesi. Monggo priksa limit spambot!</b>"
+img_1: "{} Conto panggunaan: `{} 5 kucing lucu` utawa `{} kucing lucu`"
+peer: "{} **Kayane durung tau berinteraksi karo id pangguna iki!**"
+keyeror: "{} **Kayane salah id pangguna!**"
+kdm_1: "{} <b>Sumangga sebutaken jeneng sing arep dipriksa Khodam-e.</b>"
+kdm_2: "{} <b>Niki Khodam-e <code>{}</code>:\n\n<code>{}</code>\n\n{} Dipriksa dening: {}</b>"
+cmds: "**Pitulung Perintah**"
+err: "{} **Kekeliruan:** {} \n\n**Mangga laporaken menyang @ZeebSupport**"
+err_1: "**Kekeliruan:** {}"
+err_1: "{} **Kekeliruan:** {} \n\n**Mangga laporaken menyang @ZeebSupport**"
+proses: "{} <b>{}</b>"
+proses_1: "⏳ **Sedang diproses...**"
+upload: "{} **Nunggah...**"
+klk_1: "👉 Klik mriki"
+balik: "⬅️ Bali"
+prev: "⬅️ Sadurunge"
+next: "➡️ Sabanjure"
+ttup: "❌ Tutup"
+reboot: "{} **Reboot sampun diwiwiti! Mangga enteni 1 - 2 menit ngantos bot wiwit bali.**"
+reboot_1: "Reboot sampun diwiwiti! Mangga enteni 1 - 2 menit ngantos bot wiwit bali."
+supot: "🧸 **Yen mbetahaken pitulungan, mangga rawuh menyang Grup Pitulung ing ngisor iki!!\n\nUtawa njenengan saged ndeleng pembaruan ing Channel kita...**"
+lang_1 : "🇮🇩 Monggo pilih basa sing arep kagem standar grup iki:"
+lang_2 : "✅ Basa kasil diowahi."
+lang_3 : "❌ Gagal ngganti basa."
+lang_4 : "❌ Sampeyan sampun migunakake basa ingkang sami."
+
+# proxy
+prox_1: "**➣ `{}`**"
+prox_2: "{} <b>Boten wonten proxy ingkang saged dipun-ginakaken.</b>"
+prox_3: "{} **Puniki dhaptar proxy `{}` :**\n\n"
+prox_4: "{} **Boten saged nemokake proxy ingkang sah.**"
+prox_5: "{} <b>Perintah boten sah. \nMangga gunakaken perintah {} [`http`|`socks4`|`socks5`]</b>"
+prox_6: "{} <b>Perintah boten sah.\nMangga gunakaken perintah `{}` [`http`|`socks4`|`socks5`]</b>"
+
+# tod
+tod_1: "{} **Tantangan:**\n\n `{}`"
+tod_2: "{} **Gagal ngundhuh Tantangan. Mangga cobi sepisan maneh mengko.**"
+tod_3: "{} **Jawaban Jujur:**\n\n `{}`"
+tod_4: "{} **Gagal ngundhuh Jawaban Jujur. Mangga cobi maneh mengko.**"
+
+# autoend
+auend_1: "{} **Mangga wenehaken argumen!**"
+auend_2: "{} Kasil mbusak riwayat obrolan {}!"
+auend_3: "{} Kasil mbusak riwayat obrolan pangguna {}!"
+auend_4: "{} Kasil mbusak riwayat obrolan bot {}!"
+
+# lirik
+lirk_1: "{} <b>Boten ngoten!!\n{} Gunakaken format: <code>{}</code> Nama Penyanyi - Judhul Lagu\n\n{} Contone: <code>{} Arctic Monkeys - Do i Wanna Know</code></b>"
+lirk_2: "{} <b>Lha, lirik lagune ora ketemu.</b>"
+
+# download
+down_1: "{} **Boten ngoten!! Format `{}` [query].**"
+
+# filter
+fil_1: "{} Dhaptar Filter ing Grup {}:\n"
+fil_2: "{} Ora ana filters ing grup iki."
+fil_3: "{} Batas maksimal Filter yaiku 50."
+fil_4: "{} Gunakaken format : `{}` [jeneng][balas pesen]."
+fil_5: "{} Gunakaken format : `{}` [jeneng][balas pesen]."
+fil_6: "{} Filter `{}` sampun wonten."
+fil_7: "{} Wenehaken jeneng Filter."
+fil_8: "{} Boten saged nyimpen Filter nganggo simbol < utawa >."
+fil_9: "{} Teks boten saged kosong."
+fil_10: "{} Priksa maneh split quote-nya wis bener."
+fil_11: "{} Filter kasimpen `{}`."
+fil_12: "{} Filter apa sing arep diendhekake?"
+fil_13: "{} Boten wonten Filter ing kene."
+fil_14: "{} Filter `{}` kasil dibusak!"
+fil_15: "{} Kabeh Filter kasil dibusak."
+fil_16: "{} Boten saged nemokake Filter punika."
+
+# mention
+ment_1: "{} <b>Kowe kudu dadi admin kanggo ngggunakake perintah iki!</b>"
+ment_2: "{} <b>Monggo wenehake teks kanggo di-mention.</b>"
+ment_3: "{} <b>Ora ana proses tagall sing lagi mlaku.</b>"
+ment_4: "{} <b>Tagall kasil diendhekake.</b>"
+ment_5: "{} <b>Berhasil ngetag <code>{}</code> anggota.</b>"
+
+mmf_1: "{} **Sumangga balas foto utawa stiker!**"
+mmf_2: "{} **Mangga tulis `{} teks`**"
+
+# sangmata
+sangmat_1: "{} <b>sg username/id/reply</b>"
+sangmat_2: "{} <b>Mangga sebutaken pangguna sing sah!</b>"
+sangmat_3: "{} <b>bot ngambek :( </b>"
+sangmat_4: "{} <code>{}</code>"
+
+# invite
+inv_1: "{} <b>Nambah pangguna ...</b>"
+inv_2: "{} <b>Monggo wenehi ID/Nama Pangguna!</b>"
+inv_3: "{} <b>Kasil nambah pangguna :</b> <b>{}</b>\n <b>Ing: <code>{}</code></b>"
+inv_4: "{} <b>Undangan Link:</b> {}"
+inv_5: "{} Sampeyan boten nduwe ijin sing dibutuhake."
+inv_6: "{} Fitur iki mung kasedhiya kanggo grup lan channel."
+
+# join
+join_1: "{} <b>Kasil Gabung ing</b> <code>{}</code>"
+join_2: "{} <b>Ora bisa ngggunakake perintah iki ing `{}`!</b>"
+join_3: "{} {} Kasil metu saka <code>{}</code>"
+join_4: "{} <b>Sampun pamit!</b>"
+join_5: "{} <b>Kasil metu saka `{}` Groups\n{} Gagal metu saka `{}` Groups</b>"
+join_6: "{} **Kasil metu saka `{}` {}\n{} Gagal metu saka `{}` {}.**"
+join_7: "{} <b>Kowe ora bisa ngggunakake perintah iki amarga kowe iku `Admin` utawa `Owner` ing `{}`.</b>"
+join_8: "{} **Gunakaken format `{}` [grup utawa ch]**"
+
+# uprefixies
+upref_2: "{} **Prefix disetel dadi: `{}`**"
+upref_1: "{} **Gunak ne format: `{}` [query]**"
+
+# vcs
+vc_1: "{} **Ora ana obrolan suara sing ditemokake cok!\n`{}`**"
+vc_2: "{} **Nggawe obrolan suara. Iki dadi serius.**"
+vc_3: "{} **Obrolan suara ditutup. Ndang lanjut uripmu!**"
+vc_4: "{} **Gunakake format: `{}` [judul obrolan suara].**"
+vc_5: "{} **Kowe dudu admin, ngopo kok wani-wani!**"
+vc_6: "{} **Judul obrolan suara wis diganti dadi:\n`{}`. Mantul!**"
+vc_7: "{} **Munggah os lur, koyo beruk!**\n<b>• Grup:</b> `{}`"
+vc_8: "{} **Akunmu wis ana ing ndhuwur OS cok!**"
+vc_9: "{} **Wes medok os, kemeng!**<\n**• Grup:** `{}`"
+vc_10: "{} **Akunmu ora ana ing OS sing endi wae!**"
+vc_11: "{} <b>Ora ana obrolan suara sing aktif ing <code>{}</code></b>"
+vc_12: "{} <b>Akunmu wis ana ing obrolan suara <code>{}</code></b>"
+vc_13: "{} <b>Kowe durung mlebu OS, seng tenan lah<code>{}</code></b>"
+
+# webshot
+webs_1: "{} **Gunakake format: `{}` [link]. Siji-siji ae yo!**"
+webs_2: "{} **Gagal njupuk gambar! Kamera teles mungkin.**"
+
+# assisten
+asst_1: "Halo 👋 {} !! Aku iki asisten pribadimu.\n\nOpo sing pengin diganti? Aku siap mbantu!"
+asst_2: "Halo 👋 {} !! Aku iki asisten pribadine {}\nApa sing lagi dicari? Ayo tak bantu.😊"
+asst_3: "Bahasa"
+asst_4: "Bahasa sing saiki kowe gunakake iku: **{}**\nYen arep ganti, pilih wae sing enak! Ora usah sungkan."
+asst_5: "Bahasamu saiki wis diganti dadi: **{}**\n\nRestart Userbot kudu kanggo ndeleng perubahan iki."
+asst_6: "Reboot"
+asst_7: "Update"
+
+# autoread
+autoread_1: "{} **Gunakake Format: `autoread` [query] [on/off]. Ora nggepok kanca sing salah.**"
+autoread_2: "{} **Sukses aktifake autoread grup.**"
+autoread_3: "{} **Sukses aktifake autoread pangguna.**"
+autoread_4: "{} **Sukses aktifake autoread channel.**"
+autoread_5: "{} **Sukses aktifake autoread all. Cocok kanggo kowe sing demen aktif terus!**"
+autoread_6: "{} **Masukna query sing bener, ojo ngasal!**"
+autoread_7: "{} **Sukses aktifake autoread bot. Ora ono alasan ketinggalan info.**"
+autoread_8: "{} **Autoread {} wis dipateni. Muga-muga ora lali.**"
+autoread_9: "{} **Sukses aktifake autoread mention. Dadi ora bakal kelewatan sing penting.**"
+
+# button
+butt_1: "{} **Silakan ketik `help markdown` kanggo ndelok format tombol sing kece!**"
+
+# afk
+afk_1: "{} **Ora bisa gunakake akun channel.**"
+afk_2: "{} **Saiki afk! Iki tandane butuh istirahat.**"
+afk_3: "**{} wis online maneh!\n{} Dadi afk selama: `{}` sing kepungkur.**"
+afk_4: "**{} wis online maneh!\n{} Dadi afk selama: `{}` sing kepungkur.**\n{}**Alesane: `{}`. Wani ra kowe mbolos karo alesane iki.**"
+afk_5: "**{} saiki lagi afk!!**\n{} **Suwe-suwe afk: `{}` kepungkur.**"
+afk_6: "**{} saiki lagi afk!!**\n{} **Suwe-suwe afk: `{}` kepungkur.\n{} **Alesan: `{}`.**"
+
+# carbon
+crbn_1: "{} **Contoh perintah:\n\n• `{} [balas teks]`\n• `{} [balas teks] LimeGreen`\n• `{} [balas teks] LimeGreen Dracula`\n• `{} [balas teks] LimeGreen Dracula python`\nOra kakean gaya, sing penting jelas.**"
+crbn_2: "{} **Carbonara digawe karo: {}. Enak tenan!**"
+crbn_3: "{} **Proses unggah lagi dilakoni. Bentar wae!**"
+
+# copy
+cpy_1: "{} **Gunakake format: `{}` [link]. Sing bener yo, ojo mlempem!**"
+cpy_2: "{} **Nyolong dibubarke. Aja demen nyolong!**"
+cpy_3: "**🔒 Isi iki privat, ora iso kowe colong-colong!**"
+
+# database
+dbs_1: "{} **Gunakake format: `{}` [variable] [value]. Sing apik-apik formatmu.**"
+dbs_2: "{} **PC-Block dihidupake. Blokade dimulai!**"
+dbs_3: "{} **PCPic disetel menyang: `{}`. Foto apik tenan!**"
+dbs_4: "{} **Alive Pic disetel menyang: `{}`. Sip tenan fotomu!**"
+dbs_5: "{} **PC Teks wis disetel menyang default. Aman ora?**"
+dbs_6: "{} **Delok database query, cek tenan!**"
+dbs_7: "{} **Gunakake format: `{}` [query]. Aja ngawur!**"
+dbs_8: "{} **Iki {}-mu: `{}`. Ora ilang kok!**"
+dbs_9: "{} **{} sukses dibusak!! Goodbye!**"
+dbs_10: "{} **Tag Logger disetel menyang `{}`. Catatan saiki aman.**"
+dbs_11: "{} **PC Logger disetel menyang `{}`. Tulis kabeh kahanan saiki!**"
+
+# emoji
+em_1: "{} **Emoji status disetel menyang: <emoji id={}>😭</emoji>. Sedih tenan kowe.**"
+em_2: "{} **Kowe dudu pengguna Telegram Premium, rek! Ora iso gaya-gayaan.**"
+em_3: "{} **Balas nganggo emoji premium! Sing gampang wae.**"
+em_4: "{} **ID emoji: `{}`. Catet ya!**"
+em_5: "{} **Gunakake format: `{}` [variable] [emoji premium]. Ora usah kakean gaya!**"
+em_6: "{} **Emoji {} disetel menyang: <emoji id={}>😄</emoji>. Seneng terus, ya!**"
+em_7: "{} **Emoji {} disetel menyang: {}. Sip tenan iki!**"
+em_8: "{} <b>Berhasil ganti teks kustom: {}</b>"
+em_9: "{} **Query ora ditemokake! Mbok coba neh?**"
+em_10: "{} <b>Query ora ditemokake! Coba wae ketik `{}help emoji`</b>"
+
+em_24: "{} **Costum Emoji :\n\n- Eval: {}\n- Ping: {}\n- Pong: {}\n- Proses: {}\n- Sukses: {}\n- Gagal: {}\n- Profil: {}\n- Alive: {}\n- Warning: {}\n- Block: {}**"
+em_25: "{} **Emoji status disetel menyang: <emoji id={}>😭</emoji>. Njuk nangis dewe.**"
+
+# gcast
+gcs_1: "{} **Silakan balas pesan utawa ketik pesenmu. Sing cetho wae!**"
+gcs_2: "{} **Proses broadcast grup:\n{} Seng berhasil: `{}` grup.\n{} Gagal ki: `{}` grup.**"
+gcs_3: "{} **Proses broadcast pengguna:\n{} Kekirem: `{}` pengguna.\n{} Ra kekirim: `{}` pengguna.**"
+gcs_4: "{} **Grup iki wis ana ing atiku! Siji wae cukup.**"
+gcs_5: "{} **`{}` sukses ditambahake menyang atiku!**"
+gcs_6: "{} **Grup `{}` wis ana ing atiku. Arep nambah maneh?**"
+gcs_7: "{} **`{}` ora ana ing atiku. Kowe salah grup.**"
+gcs_8: "{} **Grup `{}` wis dibusak saka atiku. Ehek!**"
+gcs_9: "{} **Grup `{}` ora ana ing atiku. Aja ngawur.**"
+gcs_10: "{} **Gunakake format: `{}` [ID Grup]. Sing bener formatmu!**"
+gcs_11: "{} **atiku saiki kosong. Aku jomblo!**"
+gcs_12: "{} **Tulung gunakake format sing bener, koyo iki: `{}` [Teks].**"
+gcs_13: "{} **The blacklist list is empty!!**"
+gcs_14: "{} **All blacklist lists have been successfully deleted.**"
+gcs_15: "{} *•Broadcast wes kekirim:\n{} Seng berhasil `{}` Grup.\n{} Seng gagal `{}` Grup.**"
+gcs_16: "{} **Brodcast neng konco:\n{} Seng berhasil `{}` Grup.\n{} Seng gagal `{}` Grup.**"
+
+# global
+glbl_2: "{} **Pengguna ora ditemokake, mbuh arep melu petak umpet apa!**"
+glbl_3: "{} **Dheweke Dev Prem-Anjeng. Hormati boss iki!**"
+glbl_4: "{} **Tulung, nek arep gban, sebutno alesane. Tak tutok nek kosongan**"
+glbl_5: "{} **Pengguna iki wis di-gban!**"
+glbl_6: "{} **Warning Global Banned\n\n{} Sukses ing: `{}` obrolan.\n{} Gagal ing: `{}` obrolan.\n{} Pengguna: `{}`**\n{} Alasan: `{}`. Cilik-cilik wes diusir wae!**"
+glbl_7: "{} **Pengguna iki durung di-gban kok. Masih bebas berlarian!**"
+glbl_8: "{} **Gunakake format: `{}` [ID Pengguna]. Ojo sembrono.**"
+glbl_9: "{} **Tulung nek arep nge-ban tulis alesane. Yen ra enek, awakku sing bingung!**"
+glbl_10: "{} **Pengguna wis digmute.**"
+glbl_11: "{} **Warning Global Gmute\n\n{} Sukses: `{}` Chat\n{} Gagal: `{}` Chat\n{} Pengguna: `{}`\n{} Alasan: `{}`**"
+glbl_12: "{} **Pengguna durung tau diGMute.**"
+glbl_13: "{} **Warning Global Ungmute\n\n{} Sukses: `{}` Chat\n{} Gagal: `{}` Chat\n{} Pengguna: `{}`**"
+glbl_14: "{} **Daftar GBanned :**\n\n"
+glbl_15: "{} **{}**\n"
+glbl_16: "{} **Alasan: `{}`\n\n{} Total :`{}`**\n"
+glbl_17: "{} **Daftar GBanned!!**\n\n"
+glbl_18: "{} **Daftar GMute :**\n\n"
+glbl_19: "{} **`{}`**\n"
+glbl_20: "{} **Alasan: `{}`\n\n{} Total :`{}`**\n"
+glbl_21: "{} **Daftar GMute!!**\n\n"
+glbl_22: "**Ora ana pengguna sing ditemokake.** (Mungkin lagi dolan utawa ketiduran!)"
+
+# graph
+grp_1: "{} **Silakan balas pesen teks utawa media!** (Yen ora, mau dolanan kucing!)"
+grp_3: "{} **Berhasil Diunggah: <a href='https://telegra.ph/{}'>Klik Disini</a>**"
+grp_5: "{} **Berhasil Diunggah: <a href='https://telegra.ph/{}'>Klik Disini</a>** (Cek, sapa ngerti ana paduan suara!)"
+
+# grouplog
+grplog_1: "{} **Log Grup Berhasil Diaktifkan :\n\n{}**"
+grplog_2: "{} **Log Grupmu Wis Aktif.**"
+grplog_3: "{} **Log Grup Berhasil Dinonaktifkan.** (Sampai ketemu maneh!)"
+grplog_4: "{} **Log Grupmu Wis Dinonaktifkan.** (Ngaso sak bentar!)"
+grplog_5: "{} **Format sing kowe berikan salah. Silakan nganggo `gruplog on` utawa `gruplog off`.** (Ngomong ngene, kudu dipelajari!)"
+grplog_6: "**📨 Pesan Baru\n\n• Grup : {}\n• Pengguna : {}\n• Pesan: {}**"
+grplog_7: "Jawab Pesan"
+
+# help
+hlp_1: "{} **Ora ana modul bernama `{}`.**"
+
+# heroku
+hero_1: "{} **Kowe mung bisa njupuk log saka Heroku.** (Yen ora, ya kudu kerja keras!)"
+hero_2: "{} **Gunakake format : `{}` variabel.** (Nek ora, ora kepenak!)"
+hero_3: "{} **{} `{}`.** (Jadi, ingat-ingat, ya!)"
+hero_4: "{} **Ora bisa nemokake var kaya ngono.** (Mungkin wis dipindhah!)"
+hero_5: "{} **env file ora ditemokake.** (Duh, kesasar, ya!)"
+hero_6: "{} **`{}` sukses dihapus.** (Kene sing ra popo!)"
+hero_7: "{} **Gunakake format : `{}` [variabel] [value].** (Yen ora, bingung!)"
+hero_8: "{} **`{}` sukses diperbarui.** (Wah, angin anyar!)"
+hero_9: "{} **`{}` sukses ditambahake.** (Kayak tambahan di menu restoran!)"
+hero_10: "{} **Hanya kanggo pengguna Heroku.** (Ora kabeh bisa, ya!)"
+hero_11: "{} **DYNO USAGE\n\n{} Usage:\nTotal Used:\n`{}h` `{}m` [`{}%`]\n\n{} Remaining Quota:\nTotal Left: `{}h` `{}m` [`{}%`]** (Yen ndang, kudu diteliti, ya!)"
+hero_12: "{} **Kesalahan Perintah Git.** (Nek kesulitan, mending ngeluruk!)"
+hero_13: "{} **Repositori Git Ora Valid.** (Jangan sedih, mungkin ada yang lain!)"
+hero_14: "**Prem-Anjeng wis versi paling anyar.** (Nek udah, ayo ganti tema!)"
+hero_15: "**Pembaruan anyar kasedhiya kanggo Prem-Anjeng !\n\n➣ Mendorong Pembaruan Sekarang\n\nPembaruan:**\n\n" 
+hero_16: "**Pembaruan anyar kasedhiya kanggo Prem-Anjeng!\n\n➣ Mendorong Pembaruan Sekarang\n\nPembaruan:\n\n[Klik Di Sini kanggo mriksa Pembaruan]({})** (Aja sampe kelewatan, ya!)"
+hero_17: "{} {}\n\n**Prem-Anjeng sukses diperbarui! Saiki, ngenteni 2 - 3 menit nganti bot miwiti maneh!** (Sok, istirahat ya!)"
+
+# info
+info_1: "{} **Aku ora ana ing grup kuwi!** (Kayak kucing hilang!)"
+info_2: "**Ora Diketahui**"
+info_3: "**Developer** (Yang bikin sih, pinter!)"
+info_4: "**Pemilik Bot** (Duweni boss, yo!)"
+info_5: "**Developer & Owner** (Dua posisi, nanging siji otak!)"
+info_6: "**Ora bisa njupuk**"
+info_7: "**Pengguna iku bot**"
+info_8: "**Pengguna katon belakangan iki** (Kepiye kabare?!)"
+info_9: "**Pengguna katon seminggu sing kepungkur** (Dolan menyang mana, ya?!)"
+info_10: "**Pengguna katon sebulan sing kepungkur** (Wis kaya dino raja, ora ketok!)"
+info_11: "**Pengguna wis suwe ora katon utawa mungkin Aku diblokir dening pengguna kuwi** (Dibisiki, yo!)"
+info_12: "**Pengguna lagi Online** (Nek ora balas, mungkin lagi sibuk!)"
+info_13: "**Pengguna lagi Offline** (Dadi, ora bisa diajak dolan!)"
+info_14: "**User Info\n\n🆔 User ID: `{}`\n📎 Link Profil: <a href='tg://user?id={}'>Klik Kene🚪</a>\n🫵 Sebut: {}\n🗣 Jeneng Pertama: {}\n🔅 Jeneng Kapindho: {}\n🔍 Username: {}\n✍️ Bio: `{}`\n🧑‍💻 Dukungan: {}\n🥷 Tipe Pengguna Dukungan: {}\n💣 Gbanned: {}\n☠️ Alasan Gban: {}\n🌐 DC ID: {}\n✋ Terbatas: {}\n✅ Diverifikasi: {}\n❌ Palsu: {}\n⚠️ Penipuan: {}\n🤖 Bot: {}\n👀 Paling akhir ketemu: {}** (Penting tenan, yo!)"
+info_15: "**Chat Info\n\n🆔 ID: `{}`\n🚀 Judul Chat: {}\n✨ Tipe Chat: {}\n🌐 ID DataCentre: {}\n🔍 Username: {}\n⚜️ Administrator: {}\n🤖 Bots: {}\n🚫 Dilarang: {}\n⚜️ Admin 🤖 Bots: {}\n⁉️ Penipuan: {}\n❌ Palsu: {}\n✋ Terbatas: {}\n👨🏿‍💻 Deskripsi: {}\n👪 Total anggota: {}\n🚫 Ana Konten Dilindungi: {}\n🔗 Chat Terhubung: {}** (Yen ana chat, kudu dicek, ya!)"
+info_16: "{} **Iki dudu pengguna, nanging Grup! Mangga gunakake `cinfo`.** (Lha, luwih becik dakkandhani!)"
+info_17: "{} **Gunakake format '{}` @username/id grup.** (Aja kesasar, ya!)"
+
+# staff
+stap_0: " ┣ {}"
+stap_1: " ┣ {} sebagai <i>{}</i>"
+stap_2: "<b>👑 Pendiri : </b>\n {}\n\n"
+stap_3: "<b>👨🏻‍💻 Wakil Pendiri : </b>\n"
+stap_4: "<b>🧑🏻‍💻 Admin : </b>\n"
+stap_5: "<b>🤖 Bots : </b>\n"
+stap_6: "{} <b>Struktur Administrasi ing {}</b>\n\n\n"
+
+# limit
+lmt_1: "{} **{}**\n\n ~ {} **{}**"
+
+# locks
+lck_1: "{} **Gunakake format : `{}` tipe!** (Aja ngasal, yo!)"
+lck_2: "{} **Berikan argumen kanggo dikunci!** (Aja nganti lali, kowe!)"
+lck_3: "{} **Kayake aku ora duwe izin luwih kanggo nindakake {}!** (Jangan khawatir, ada jalan lain!)"
+lck_4: "{} **Terkunci `all` kanggo grup iki!** (Mau nyekel kabeh, ya!)"
+lck_5: "{} **Wis aktif!** (Kayak roti bakar, langsung mateng!)"
+lck_6: "{} **Kirim link dikunci ing grup iki!** (Aja sampe salah kirim!)"
+lck_8: "{} **Kirim minangka channel dikunci ing grup iki!** (Jaga-jaga, supaya ora kebablasan!)"
+lck_9: "{} **Pesan terusan dikunci ing grup iki!** (Sapa ngerti, bisa jadi penipuan!)"
+lck_10: "{} **Pesan terusan pengguna dikunci ing grup iki!** (Aja diulang-ulang, ya!)"
+lck_11: "{} **Pesan terusan channel dikunci ing grup iki!** (Kondisi darurat, yo!)"
+lck_12: "{} **Tipe Kunci Salah!**\n\n**Mangga ketik `locktypes` kanggo ndeleng format kunci!** (Nek ora, kowe bakal bingung!)"
+lck_13: "{} **Kayake aku ora duwe izin luwih!** (Ya, pasrah wae!)"
+lck_14: "{} Terkunci **{}** ing grup iki. (Kayak tutup ragi, yo!)"
+lck_16: "{} **Berikan argumen kanggo dibuka!** (Kudu jelas, ya!)"
+lck_18: "{} Dibuka **all** ing grup iki!** (Mau dolanan bareng-bareng, ya!)"
+lck_19: "{} **Wis dibuka!** (Jadi bebas, ya!)"
+lck_20: "{} **Kirim minangka channel dibuka ing grup iki!** (Ngatur, supaya ora kebablasan!)"
+lck_21: "{} **Kirim link dibuka ing grup iki!** (Aja lali, ya!)"
+lck_22: "{} **Kabeh pesan terusan dibuka ing grup iki!** (Penting tenan!)"
+lck_23: "{} **Pesan terusan pengguna dibuka ing grup iki!** (Cek, sapa ngerti ada kejanggalan!)"
+lck_24: "{} **Pesan terusan channel dibuka ing grup iki!** (Jaga-jaga, yo!)"
+lck_25: "{} **Tipe Unlock Salah!**\n\n{} **Mangga ketik `locktypes` kanggo ndeleng format kunci!** (Kudu eling, yo!)"
+lck_27: "{} Dibuka **{}** ing grup iki.** (Yee, momen kebebasan!)"
+lck_28: "{} **Ana kesalahan!** (Kayak wis ditampar, ya!)"
+lck_29: "{} **Laporkan menyang @Er_Support_Group :\n\n`{}`** (Biar cepet ditangani!)"
+
+# Logo
+logo_1: "{} **Gunakna format : `{}` [teks] yo!**"
+logo_2: "{} **Iki digawe karo ati, digawe karo rasa tresna dening : {}**"
+
+# Catetan (Notes)
+nts_1: "{} **Gunakna format : `{}` [jeneng catetan] [bales pesen].**"
+nts_2: "{} **Teksé ora éntuk kosong, ndang isèni!**"
+nts_3: "{} **Catetan `{}` wis kasimpen, manteb!**"
+nts_4: "{} **Tulisen jenenge catetan sek, ojo males!**"
+nts_5: "{} **Catetan `{}` ra ketemu, ilang kèri!**"
+nts_6: "{} **Ora ono catetan blas, opo ora isin?**"
+nts_7: "{} **Daftar Catetan iki :**\n\n"
+nts_8: "**• `{}`**\n"
+nts_9: "{} **Catetan sing arep dibusak sing endi, takon sek jenenge!**"
+nts_10: "{} **Lho, catetan `{}` ora ketemu, ngopo iki!**"
+nts_11: "{} **Catetan `{}` wes kasil diilangno, beres!**"
+nts_12: "{} **Catetan `{}` wes ana seblum, ojo dobel-dobel!**"
+
+# Pastebin
+paste_1: "{} **Gunakna format : `{}` [bales pesen teks utawa dokumen]**"
+paste_2: "{} **Dokumene kegedhen mas, kudu cilik luwih sithik saka 40KB!**"
+paste_3: "{} **Wes kasil! [Linké Disini]({})**"
+
+# Ping
+ping_1: "**{} Pong `{}ms`**\n**{} Uptime iki : `{}`**\n**{} Prem-Anjeng Dev**"
+
+# Markdown
+mark_1: "<b>Markdown Formatting</b>\n<b>Kowe iso ngetik pesenmu nganggo format <b>tebal</b>, <i>miring</i>, garis ngisor, <strike>dicoret</strike>, lan liya-liyane.</b>\n\n<code>`kata kode`</code>: Iki kanggo teks monospace. Ditenokake dadi: <code>kata kode</code>.\n\n<code>__miring__</code>: Teks bakal dadi miring. Ditenokake kaya ngene: <i>teks miring</i>.\n\n<code>**tebal**</code>: Teks bakal dadi tebal. Ditenokake dadi: <b>teks tebal</b>.\n\n<code>⥨garis ngisor⥨</code>: Iki nggawe teks garis ngisor.\n\n<code>~~coret~~</code>: Teks bakal dicoret. Ditenokake dadi: <strike>teks coretan</strike>.\n\n<code>||spoiler||</code>: Teks iki kanggo nggawe spoiler. Ditampilake dadi: <spoiler>spoiler</spoiler>.\n\n<code>[hyperlink](contoh)</code>: Iki format kanggo nggawe hyperlink.\n\n<code>Halo Disini ~ [Tombol Aku|https://link.com]</code>: Iki format kanggo nggawe tombol.\n\nKowe uga iso nggawe tombol callback_data nganggo <code>#</code>. Kanggo sing luwih lengkap, takon menyang @Er_Support_Group."
+mark_2: "<b>Isian</b>\n\nKowe uga iso kustomisasi pesen nganggo data kontekstual. Contone, kowe bisa nyebut jeneng pangguna ing pesen sugeng rawuh, utawa nyebut ing filter!\n\n<b>Isian sing didhukung:</b>\n\n<code>{first}</code>: Jeneng ngarep pangguna.\n<code>{last}</code>: Jeneng mburi pangguna.\n<code>{fullname}</code>: Jeneng lengkap pangguna.\n<code>{username}</code>: Jeneng pangguna. Yen ora duwe, bakal nyebut pangguna kuwi.\n<code>{mention}</code>: Nyebut pangguna nganggo jeneng ngarep.\n<code>{id}</code>: ID pangguna.\n<code>{chatname}</code>: Jeneng obrolan."
+mark_3: "**Kanggo ndelok format markdown klik tombol ing ngisor iki.**"
+
+# PC-Block
+pmper_1: "Hey {mention} 👋. Ojo spam, utawa kowe bakal diblokir!!"
+pmper_2: "Kowe oleh peringatan {}/{} !!"
+pmper_3: "{} **Pangguna wis disetujoni!**"
+pmper_4: "{} **Sip, pangguna wes disetujoni kanggo kirim pesen.**"
+pmper_5: "{} **Pangguna pancen durung disetujoni kanggo kirim pesen.**"
+pmper_6: "{} **Ya, pangguna ditolak kanggo kirim pesen.**"
+pmper_7: "{} **PC-Block pesen sukses disetel dadi :\n\n`{}`**"
+pmper_8: "{} **Gunakna format : `{}` [angka].**"
+pmper_9: "{} **Pesen Limit sukses disetel dadi : `{}`.**"
+pmper_10: "{} **Aku wis ngandhani `{}` peringatan\nTunggu Ownerku nyetujoni pesenmu, utawa kowe bakal diblokir !**"
+
+# Quote
+qot_1: "{} **Daftar Werna :\n\n**"
+qot_2: "{} **Iki dhaptar werna kanggo latar mburi quote.**"
+qot_3: "{} **Si asu ngaku-aku dadi Developer!**"
+qot_4: "{} **Batas pesen mung 10 yo!**"
+them_1: "{} **Daftar Tema :\n\n**"
+them_2: "{} **Iki dhaptar tema.**"
+
+# Restrict
+res_1: "{} **Wah, arep tendang awakmu dhewe? pekok!**"
+res_2: "{} **Tendang Wonge: {}\n{} Admin: {}\n{} Alesane: `{}`**"
+res_3: "{} Kowe ora oleh ngeculke wong iki!"
+res_4: "{} **Kowe arep blokir awakmu dhewe? Luar biasa!**"
+res_5: "{} **Blokir Wong: {}\n{} Admin: {}\n{} Alesane: `{}`**"
+res_6: "{} **Wes tak buka blokir {}**"
+res_7: "{} **Monggo balas pesené disik!**"
+res_8: "{} **Piné wes dilepas [pesen]({})!**"
+res_9: "{} **Berhasil nyematno [pesen]({})!**"
+res_10: "{} **Opo kowe arep membisu awakmu dhewe? Serius iki?**"
+res_11: "{} **Bisukne Wong: {}\n{} Admin: {}\n{} Alesane: {}**"
+res_12: "{} **Aku iki ora admin rek!**"
+res_13: "{} **Aku ora duwe ijin. Karo sing due urep!**"
+res_14: "{} **Ijin kanggo kirim pesen ono kanggo {}.**"
+res_15: "{} **Berhasil ngeluarno `{}` akun sing wes ilang.**"
+res_16: "{} **Ora ono akun sing ilang neng kene!**"
+res_17: "{} **Link Grup iki: \n\n{}**"
+res_18: "{} **Monggo balas pesené kanggo dilaporno neng admin!**"
+res_19: "{} **Bener yo iki.**"
+res_20: "{} **Wong iki admin rek!**"
+res_21: "{} **Laporno {} neng admin. Wes rampung!**"
+res_22: "{} **Kowe admin rek!**"
+res_23: "{} **{}\n{} Pangguna {} wes diangkat dadi wakil pendiri!**"
+res_24: "{} **{}\n{} Pangguna {} wes diangkat dadi admin!**"
+res_25: "{} **Pangguna iki dudu admin!**"
+res_26: "{} Admin: {}\n{} Pangguna {} wes dicopot dadi admin!"
+res_27: "{} **Pangguna iki ora tak angkat yo!**"
+res_28: "{} **Berhasil ngganti jeneng Grup dadi: {}.**"
+res_29: "{} **Berhasil ngganti deskripsi Grup dadi: {}.**"
+res_30: "{} **Wenehi titel kanggo pangguna!**"
+res_31: "{} **Iki sing duwé grup lo!**"
+res_32: "{} **Berhasil ngganti titel pangguna {} dadi: {}.**"
+res_33: "{} **Monggo balas menyang media disik!**"
+res_34: "{} **Foto grup wes kasil diganti!**"
+res_35: "{} **Berhasil ngganti dokumen dadi foto grup!**"
+res_36: "{} **Berhasil ngganti video dadi foto grup!**"
+
+# ShowID
+shid_9: "{} **ID Gif: `{}`**"
+shid_10: "{} **Monggo balas menyang gif!**"
+
+# Spam
+spm_1: "{} **Gunakna format : `{}` [jumlah] [pesen utawa balas pesen].**"
+spm_2: "{} **Gunakna format : `{}` [jumlah] [waktu delay] [balas pesen].**"
+spm_3: "{} **Ora ono proses spam sing mlaku!**"
+spm_4: "{} **Spam wis dihentikno!!**"
+spm_5: "{} **Gunakna format : `{}` [jumlah] [waktu delay] [link].**"
+spm_6: "{} Ora olehan spam neng grup iki!!"
+spm_7: "{} **Berhasil nambah `{}` grup menyang database**"
+spm_8: "{} **`{}` Berhasil ditambahno menyang database.**"
+spm_9: "{} **Grup iki wis ono ing database!**"
+spm_10: "{} **`{}` Ora ono ing database.**"
+spm_11: "{} **Grup `{}` kasil dihapus saka database!!**"
+spm_12: "<b>{} Daftar grup ing database</b>\n\n"
+spm_13: "{} **Database grup kosong rek!**"
+spm_14: "{} **Kabeh grup ing database wes kasil dihapus kabeh.**"
+
+# Spy
+spy_1: "{} Gagal rek!!"
+spy_2: "{} Iki asil nyolong data!!"
+
+# Script
+sct_1: "<code>{}</code> [balas pesen pangguna - teks]"
+
+# Sticker
+st_1: "{} **Monggo balas menyang sticker non animasi!**"
+st_2: "{} **Emoji : {}\n{} Sticker ID : `{}`**"
+st_3: "{} **Balas menyang sticker sing arep dihapus!**"
+st_4: "{} **Sticker kasil dihapus saka paketmu! Wah hebat!**"
+st_5: "{} **Sticker gagal dihapus! Wah piye iki?**"
+st_6: "{} **Monggo balas menyang sticker paketmu! Ayo cepetan!**"
+st_7: "{} **Balas menyang sticker utawa media, ojo bingung!**"
+
+# Sudo
+sud_1: "{} **{} Wes dadi sudo! Sakti tenan!**"
+sud_2: "{} **Ditambahno menyang sudo: {}**"
+sud_3: "{} **{} Dudu sudo pangguna! Kok bisa yo?**"
+sud_4: "{} **Dihapus saka sudo: {}**"
+sud_5: "{} **Ora ono sudo pangguna nang kene!**"
+sud_6: "{} **Anggota Sudo iki: \n\n**{}"
+sud_7 : "{} **Ora ono sudo pangguna sama sekali!**"
+
+# Transfer
+tr_1: "{} **Gunakna format iki: `{}` [balas pesan/beri pesen langsung].**"
+tr_2: "{} **Sukses!\n\n`{}`**"
+tr_3: "{} **Daftar kode Bahasa iki: \n\n{}**"
+tr_4: "{} **Gunakna format iki: `{}` [kode bahasa].**"
+tr_5: "{} **Kode bahasa wes diatur dadi: `{}` - {}. Keren, kan?**"
+tr_6: "{} **Kode bahasa opo kuwi? Takon sik!**"
+
+# Profile
+prof_1: "{} **Monggo balas pesen pangguna utawa wenehi jeneng pangguna.**"
+prof_2: "{} **Kasil mbukak blokir {}! Uwuhhh... Mantap!**"
+prof_3: "{} **Berhasil mbok blokir {}! Kok blokir ae?**"
+prof_4: "{} **Kasil ngganti jeneng dadi: `{}`.**"
+prof_5: "{} **Kasil ngganti jeneng mburi dadi: `{}` jeneng ngarep dadi: `{}`.**"
+prof_6: "{} **Kasil ngganti bio dadi: `{}`.**"
+prof_7: "{} **Kowe ora dadi admin ning grup endi wae! Piye toh iki?**"
+prof_8: "{} **Kowe dadi admin neng `{}` grup iki: \n\n**{}"
+prof_9: "{} **Foto Profilmu wes kasil diganti. Wes ganteng saiki!**"
+
+# Waifu
+waif_1: "{} **Monggo pilih kategori saka daftar iki:**\n\n{}"
+waif_2: "{} **Gagal ngundhuh gambar. Ora ono sinyal opo?**"
+waif_3: "{} **Gagal njupuk gambar. Kamera kowe rusak kah?**"
+waif_4: "{} **Wenehi angka `1` nganti `30`. Ora salah kok!**"
+waif_5: "{} Gunakna: `{}` [kueri] [jumlah]\nContoh: `{} oppai 3`\n\nTags sing tersedia: \n{}"
+waif_6: "{} **Jumlah kudu berupa angka antara `1` lan `30`. Ora ndang ora nding**"
+waif_7: "{} Ora berhasil njupuk gambar. Nunggu wae ya...**"
+waif_8: "{} **Berhasil ngunduh:\n\nJeneng = {}\nKatrangan = {}\nUnggah = {}\n**"
+waif_12: "{} **Gagal njupuk gambar. Sak durunge akeh sing nyoba.**"
+
+# Qur'an
+qur_1: "{} **Wenehi jeneng surah disik.**"
+qur_2: "{} **Gagal ngundhuh audio. Waduhhh...**"
+qur_3: "{} **Surah nganggo jeneng '{}' ora ketemu rek.**"
+
+# Pinterest
+pint_1: "{} **Ora ono gambar utawa video sing ditemokake saka URL Pinterest iki. Ayo nyoba maneh!**"
+pint_2: "{} **Downloaded by: {}. Wes dicatet!**"
+pint_3: "{} **Gagal njupuk link unduhan saka {}. Ah sial!**"
+pint_4: "{} **Kesalahan pas unduhan: `{}`. Coba maneh!**"
+
+# Base64
+enc_1: "{} **Berhasil di encode: \n`{}`. Wah sukses!**"
+enc_2: "{} **Berhasil di decode: \n`{}`. Gampang kan?**"
+enc_3: "{} **Gagal dekoding pesen iki!**"
+enc_4: "{} **Gagal: `{}`. Ora iso!**"
+enc_5: "{} **Wenehi pesen utawa teks sing arep diolah. Cepetan!**"
+
+# Efek
+konpert_1: "{} <b>Tipe sing kowe masukkan ora valid! Ojo salah masukkan.\nIki tipe sing kowe iso gunakke:</b>\n\n• {}"
+konpert_2: "{} <b>Proses Konversi… Tunggu yo!</b>"
+konpert_3: "{} <b>Digawé dening: {}</b>"
+konpert_4: "{} <b>Error! Coba maneh engkok! Lagi hang mungkin!</b>"
+konpert_5: "{} <b>Konversi berhasil, dening: {}</b>"
+konpert_6: "{} <b>Monggo balas menyang sticker! Ora uwong bingung!**</b>"
+konpert_7: "{} <b>Monggo balas menyang video media! Ora salah format!**</b>"
+konpert_8: "{} <b>Proses Konversi Audio lagi jalan, Sabar!</b>"
+konpert_9: "{} <b>File Audio lagi dikirim...</b>"
+konpert_10: "{} <b>Daftar Effect Swara iki: </b>\n\n{}"
+konpert_11: "{} <b>Ngonversi swara dadi `{}`, Sabar yo!</b>"
+konpert_12: "{} <b>Berhasil ngowahi efek audio dadi `{}`. Kerjo apik!</b>"
+konpert_13: "{} <b>Ketik `{}list-efek` kanggo ndeleng efek sing ono.</b>"
+konpert_14: "{} <b>Ada masalah sing gede. Coba maneh engkok! Atau reboot wae!**</b>"
+konpert_15: "{} <b>Perintah salah! Ayo diatur sing bener rek!</b>"
+konpert_16: "{} <b>Gagal ngundhuh hasil konversi gambar. Mungkin kene sinyale lemah!</b>"
+konpert_17: "{} <b>Ora iso nemokake asil konversi gambar.</b>"
+konpert_18: "{} <b>Kesalahan nalika ngonversi gambar dadi anime! Yen error terus mending ngopi sik!</b>"
+konpert_19: "{} <b>Iki daftar style sing iso kowe pilih: </b>\n\n{} {}"
+konpert_20: "{} <b>Berhasil konversi dadi Paragraf, Dening: {}\n\n`{}`</b>"
+konpert_21: "{} <b>Berhasil konversi dadi teks, dening: {}\n\n`{}`</b>"
+konpert_22: "{} <b>Ora ketemu teks nang audio iku rek!</b>"
+konpert_23: "{} <b>Monggo balas pesen audio utawa swara! Ben cepet kelakon!</b>"
+konpert_24: "{} <b>Balas pesen nganggo audio utawa swara kanggo ngetranskrip!</b>"
+### Sticker
+st_1: "{} **Waduh, balenono nang stiker sing ora animasi!**"
+st_2: "{} **Emoji : {}\n{} Sticker ID : `{}`**"
+st_3: "{} **Balas nang stiker sing arep dihapus, yo!**"
+st_4: "{} **Stiker sukses dihapus saka paketmu!**"
+st_5: "{} **Yah, stiker ora iso dihapus!**"
+st_6: "{} **Balas nang stiker paketmu, ndang!**"
+st_7: "{} **Balas wae nang stiker utawa media!**"
+
+### Sudo
+sud_1: "{} **{} Wis dadi sudo saiki!**"
+sud_2: "{} **Ditambahno dadi sudo: {}**"
+sud_3: "{} **{} Ora sudo meneh!**"
+sud_4: "{} **Dihapus saka sudo: {}**"
+sud_5: "{} **Ora ana sudo siji wae!**"
+sud_6: "{} **Anggota Sudo :**\n\n**{}**"
+sud_7: "{} **Ora ana sudo sing ndang!**"
+
+### Transfer
+tr_1: "{} **Gunakno format: `{}` [balas pesen/pesennya].**"
+tr_2: "{} **Sukses\n\n`{}`**"
+tr_3: "{} **Daftar kode basa :**\n\n{}"
+tr_4: "{} **Gunakno format bener `{}` baleni maneh!**"
+
+### Profile
+prof_1: "{} **Gunakno perintah iki: `profile name | bio | picture` utawa `profile full_name | bio | picture`**"
+prof_2: "{} **Profilmu wis diganti!**"
+prof_3: "{} **Gagal ngowahi profil, coba maneh!**"
+
+### Waifu
+waifu_1: "{} **Ini waifumu, apik ra?**"
+waifu_2: "{} **Wah, waifumu iki mantap tenan!**"
+waifu_3: "{} **Gawe waifu sing anyar, iki durung oke!**"
+
+### Qur'an
+q_1: "{} **Gunakno format `{}` ayat kanggo moco Qur'an.**"
+q_2: "{} **Ayat iki: `{}`**"
+q_3: "{} **Kabeh ayat wis diparingi!**"
+
+### Pinterest
+pin_1: "{} **Sinten wonge? Oh iya, coba ketik apa sing arep digoleki!**"
+pin_2: "{} **Yen gambar iki sing arep, monggo...**"
+pin_3: "{} **Gambar gagal didownload, sabar ya...**"
+
+### Base64
+b64_1: "{} **Gunakno format `{}` kanggo encode/decode.**"
+b64_2: "{} **Teks iki wis di-encode: `{}`**"
+b64_3: "{} **Teks iki wis di-decode: `{}`**"
+
+### Efek
+ef_1: "{} **Gunakno format `{}` kanggo aplikasi efek.**"
+ef_2: "{} **Efek iki keren tenan, maturnuwun!**"
+ef_3: "{} **Efek gagal diterapkan, coba maneh!**"
+
+### Auto Gcast
+augcs_1: "{} **Kanggo nggunakake perintah iki, silahkan tambahi teks auto gcast dhisik.**"
+augcs_2: "{} <b>Auto gcast wis aktif saiki.</b>"
+augcs_3: "{} <b>Siaran otomatis arep dikirim ke {}\n Kirim ke: {} grup\n\nNunggu {} menit kanggo tugas maneh.</b>"
+augcs_4: "{} <b>Auto gcast wis dimateni.</b>"
+
+### Help Animasi
+help_anm1: " **Animasi 1\n\n• Perintah: `{0}love`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}loveyou`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}wink`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}hug`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}pat`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}pikachu`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}hmm`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}ahh`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}brain`\n• Penjelasan: Cobain dewe.**\n"
+
+help_anm2: " **Animasi 2\n\n• Perintah: `{0}bomb`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}call`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}kill`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}wtf`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}ding`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}hypo`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}gang`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}char`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}kocok`\n• Penjelasan: Cobain dewe.**\n"
+
+help_anm3: " **Animasi 3\n\n• Perintah: `{0}hack`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}kntl`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}titid`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}dino`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}syg`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}gbt`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}heli`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}tembak`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}bundir`\n• Penjelasan: Cobain dewe.**\n"
+
+help_anm4: " **Animasi 4\n\n• Perintah: `{0}awk`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}y`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}tank`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}babi`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}ajg`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}nah`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}santet`\n• Penjelasan: Cobain dewe.**\n"
+
+### Help Toxic
+help_tox1: " **Toxic 1\n\n• Perintah: `{0}a`-`z`\n• Penjelasan: Cobain dewe.**"
+
+help_tox2: " **Toxic 2\n\n• Perintah: `{0}ngentot`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}goblok`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}ngatain`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}yatim`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}kont`\n• Penjelasan: Cobain dewe.**\n"
+
+help_tox3: " **Toxic 3\n\n• Perintah: `{0}ceking`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}hina`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}ngaca`\n• Penjelasan: Cobain dewe.**\n"
+
+help_tox4: " **Toxic 4\n\n• Perintah: `{0}sadboy`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}lah`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}sok`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}wah`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}alay`\n• Penjelasan: Cobain dewe.\n\n• Perintah: `{0}wkwk`\n• Penjelasan: Cobain dewe.**\n"
+
+help_tox5: " **Toxic 5\n\n• Perintah: `{0}lipkol`\n• Penjelasan: Cobain sendiri.\n\n• Perintah: `{0}nakal`\n• Penjelasan: Cobain sendiri.\n\n• Perintah: `{0}favboy`\n• Penjelasan: Cobain sendiri.\n\n• Perintah: `{0}favgirl`\n• Penjelasan: Cobain sendiri.\n\n• Perintah: `{0}canlay`\n• Penjelasan: Cobain sendiri.\n\n• Perintah: `{0}ganlay`\n• Penjelasan: Cobain sendiri.\n\n• Perintah: `{0}ange`\n• Penjelasan: Cobain sendiri.**\n"
+help_tox6: " **Toxic 6\n\n• Perintah: `{0}mix`\n• Penjelasan: Cobain sendiri.\n\n• Perintah: `{0}sayangg`\n• Penjelasan: Cobain sendiri.\n\n• Perintah: `{0} semangat`\n• Penjelasan: Cobain sendiri.\n\n• Perintah: `{0}mengeluh`\n• Penjelasan: Cobain sendiri.**"
+help_tox7: " **Toxic 7\n\n• Perintah: `{0}ywc`\n• Penjelasan: Cobain sendiri.\n\n• Perintah: `{0}jamet`\n• Penjelasan: Cobain sendiri.\n\n• Perintah: `{0}pp`\n• Penjelasan: Cobain sendiri.\n\n• Perintah: `{0}dp`\n• Penjelasan: Cobain sendiri.\n\n• Perintah: `{0}so`\n• Penjelasan: Cobain sendiri.\n\n• Perintah: `{0}met`\n• Penjelasan: Cobain sendiri.\n\n• Perintah: `{0}war`\n• Penjelasan: Cobain sendiri.\n\n• Perintah: `{0}wartai`\n• Penjelasan: Cobain sendiri.\n\n• Perintah: `{0}kismin`\n• Penjelasan: Cobain sendiri.\n\n• Perintah: `{0}ded`\n• Penjelasan: Cobain sendiri.\n\n• Perintah: `{0}sokab`\n• Penjelasan: Cobain sendiri.\n\n• Perintah: `{0}gembel`\n• Penjelasan: Cobain sendiri.\n\n• Perintah: `{0}cuih`\n• Penjelasan: Cobain sendiri.\n\n• Perintah: `{0}dih`\n• Penjelasan: Cobain sendiri.\n\n• Perintah: `{0}skb`\n• Penjelasan: Cobain sendiri.\n\n• Perintah: `{0}virtual`\n• Penjelasan: Cobain sendiri.**\n"
+help_tox8: " **Toxic 8\n\n• Perintah: `{0}ganteng`\n• Penjelasan: Cobain sendiri.\n\n• Perintah: `{0}wibu`\n• Penjelasan: Cobain sendiri.\n\n• Perintah: `{0}ssenggol`\n• Penjelasan: Cobain sendiri.**\n"
+help_tox9: " **Toxic 9\n\n• Perintah: `{0}cacad`\n• Penjelasan: Cobain sendiri.\n\n• Perintah: `{0}hayo`\n• Penjelasan: Cobain sendiri.\n**"
+
+help_afk: |
+  📋 --**Dokumen untuk AFK**--
+
+  __Mengaktifkan mode Away From keyboard.__
+     `{0}afk` (alasan)
+  
+  __Menonaktifkan mode Away From Keyboard.__
+     `{0}unafk`
+
+   __Menghapus pesan otomatis mode AFK!__
+     `{0}afkdel` (on atau off)
+help_webshot: |
+  📋 **--Dokumen untuk Webshot--**
+
+   __Mengambil tangkapan layar suatu tautan.__
+     `{0}webss` atau `{0}ss`
+help_vcs: |
+  📋 --**Dokumen untuk Voice Chat**--
+
+  __Memulai obrolan suara grup.__
+     `{0}startvc`
+
+  __Mengakhiri obrolan suara grup.__
+     `{0}stopvc`
+
+  __Bergabung dengan obrolan suara grup.__
+     `{0}joinvc` (id) (username)
+  
+  __Keluar dari obrolan suara grup.__
+     `{0}leavevc` (id) (username)
+
+  __Mengubah judul obrolan suara grup.__
+     `{0}vctitle` (judul)
+help_upref: |
+  📋 --**Dokumen untuk Prefixes**--
+
+  __Mengubah pengendali userbot Anda!__
+     `{0}setprefix` (simbol)
+
+  <b>Contoh :</b>
+   `{0}setprefix` 1
+help_emoji: |
+  📋 **--Dokumen untuk Emoji--**
+
+  __Mengubah tampilan emoji userbot!__
+     `{0}emoji` (variabel) (nilai)
+
+  >📝 **--Contoh-- :**
+  >➡️ `{0}emoji ping 🏓` | ➡️ `{0}emoji pong 🥵` | ➡️ `{0}emoji proses 🔄` | ➡️ `{0}emoji sukses ✅` | ➡️ `{0}emoji gagal ❌` | ➡️ `{0}emoji profil 👤` | ➡️ `{0}emoji owner ⭐` | ➡️ `{0}emoji warn ‼️` | ➡️ `{0}emoji block ⛔`
+  
+  __Menampilkan ID dari emoji.__
+     `{0}emoid` (balas emoji)
+
+  __Melihat daftar tampilan emoji!__
+     `{0}getemo`
+     
+  __Mengatur status emoji di profil.__
+     `{0}setemo`
+help_pingst: |
+  📋 **--Dokumen untuk Ping--**
+
+  __Menampilkan kecepatan userbot!__
+     `{0}ping`
+
+  __Menampilakn spesifikasi members.__
+     `{0}alive`
+     
+  __Merubah text tampilan di pada ping.__
+     `{0}settext` (value) (text)
+
+  📝 **--Contoh-- :**
+  ➡️ `{0}settext pong cepat` | ➡️ `{0}settext uptime nani ?` | ➡️ `{0}settext owner aliando` | ➡️ `{0}settext ubot ZB-Userbot` | ➡️ `{0}settext proses tunggu dulu` | ➡️ `{0}settext sukses selesai nih`
+help_stori: |
+  📋 **--Dokumen untuk Story--**
+
+  __Membuat story telegram.__
+     `{0}buatstory` (reply media)
+     
+  __Menghapus story telegram anda.__
+     `{0}delstory` (link)
+    
+  __Melihat story.__
+     `{0}cekstory`
+     
+  __Mengambil story seseorang.__
+     `{0}curistory` (url)
+help_tiny: |
+  📋 **--Dokumen untuk Tiny--**
+  
+  __Merubah ukuran foto atau stiker.__
+     `{0}tiny` (foto balasan/stiker)
+help_terjemah: |
+  📋 **--Dokumen untuk Translate--**
+
+  __Mengubah teks menjadi suara.__
+     `{0}tts`
+
+  __Menerjemahkan bahasa teks.__
+     `{0}tr`
+
+  __Untuk melihat daftar dan kode bahasa.__
+     `{0}lang`
+  
+  __Mengatur kode bahasa tts dan tr.__
+     `{0}setlang`
+help_sudo: |
+  📋 **--Dokumen untuk Sudo--**
+  
+  __Menambahkan pengguna ke sudo list.__
+     `{0}addsudo` (pengguna balasan)
+
+  __Menghapus pengguna dari sudo list.__
+     `{0}delsudo` (pengguna balasan)
+
+  __Melihat daftar pengguna sudo.__
+     `{0}sudolist`
+help_sticker: |
+  📋 **--Dokumen untuk Stiker--**
+
+  __Ambil informasi stiker.__
+     `{0}gstik` (stiker balasan)
+
+  __Mencuri atau membuat paket stiker Anda sendiri.__
+     `{0}kang` (stiker balasan)
+  
+  __Hapus stiker/paket stiker yang ada.__
+     `{0}unkang` (stiker balasan)
+help_spy: |
+  📋 **--Dokumen untuk Spy--**
+
+  __Curi pengatur waktu pap (bukan hanya tampilan satu kali).__
+     `{0}spy`
+help_spam: |
+  📋 **--Dokumen untuk Spam--**
+  
+  __Melakukan spam dengan penundaan.__
+     `{0}dspam` (jumlah) (waktu tunda) (reply/pesan)
+
+  __Melakukan spam sesuai angka.__
+     `{0}spam` (jumlah) (kata)
+  
+  __Hentikan spam.__
+     `{0}cspam`
+     
+  __Melakukan spam dengan penundaan dan meneruskan tautan saluran publik.__
+     `{0}dspamfw` (jumlah) (waktu tunda) (tautan saluran publik)
+  
+  __Melakukan spam dengan penundaan dan meneruskan tautan saluran publik untuk grup di database.__
+     `{0}bcfw` (jumlah) (waktu tunda) (tautan saluran publik)
+help_shid: |
+  📋 **--Dokumen untuk ShowID--**
+
+  __Lihat id pengguna atau grup dan saluran .__
+     `{0}id`
+
+  __Lihat ID GIF.__
+     `{0}gifid`
+help_secret: |
+  📋 **--Dokumen untuk SecretMsg--**
+
+  __Mengirim pesan secara rahasia.__
+     `{0}msg` - (pengguna balasan) (teks)
+help_sg: |
+  📋 **--Dokumen untuk SangMata--**
+  
+  __Melihat riwayat penggunaan nama pengguna atau nama Pengguna.__
+     `{0}sg`(username/pengguna balasan)
+help_rest: |
+  📋 **--Dokumen untuk Admin--**
+
+  <b>Blokir</b>
+    __Blokir anggota dari grup.__
+       `{0}ban` atau `delban`
+    __Membuka blokir anggota grup.__
+       `{0}unban`
+    __Keluarkan anggota dari grup.__
+       `{0}kick` atau `{0}delkick`
+    __Mengeluarkan akun terhapus dalam grup.__
+       `{0}zombies`
+
+  <b>Bisukan</b>
+    __Bisukan anggota grup.__
+       `{0}mute` atau `{0}delmute`
+    __Membuka bisu anggota grup.__
+       `{0}unmute`
+
+  <b>Promosikan</b>
+    __Promosikan admin atau salah satu pendiri.__
+       `{0}promote` atau `{0}fullpromote`
+    __Menghapus admin.__
+       `{0}demote`
+    __Mengubah jabatan admin pengguna.__
+      `{0}title`
+help_quran: |
+  📋 **--Dokumen untuk Qur'an--**
+
+  __Menampilkan surah yang diminta.__
+     `{0}qs` (nama surah)
+
+  __Melihat daftar surah.__
+     `{0}list-surah`
+help_quot: |
+  📋 **--Dokumen untuk Quotly--**
+
+  __Membuat kutipan teks.__
+     `{0}q` (membalas pesan)
+
+  __Lihat format warna latar belakang untuk tanda kutip.__
+     `{0}qcolor`
+  
+  📝 **--Contoh Penggunaan-- :**
+  ➡️ `{0}q @username` | `{0}q pink` | `{0}q @username warna`
+help_prof: |
+  📋 **--Dokumen untuk Profile--**
+
+  <b>Profil</b>
+    __Ubah biodata Anda.__
+       `{0}setbio` (teks)
+    __Ganti nama anda.__
+       `{0}setname` (nama)
+    __Ubah foto profil anda.__
+       `{0}setpp` (balas media)
+     
+  __Lihat status admin grup Anda.__
+     `{0}meadmin`
+
+  __Blokir pengguna.__
+     `{0}block` (balas pengguna/username)
+
+  __Membatalkan pemblokiran pengguna.__
+     `{0}unblock`
+
+  _Hapus pesan diri Anda sendiri.__
+     `{0}purgeme`
+help_pmpermit: |
+  📋 **--Dokumen untuk PMPermit--**
+
+  <b>Pengaturan PMPermit</b>
+    __Mengaktifkan atau mengonaktifkan.__
+       `{0}pmpermit set` (on/off)
+    __Merubah tampilan pada PMPermit.__
+       `{0}pmpermit` (type) (nilai)
+    <blockquote>📝 **--Type-- :**
+    ➡️ `limit` | `teks` | `pic` </blockquote>
+    __Menampilan tentang PMPermit anda.__
+        `{0}pmpermit get` (type)
+    <blockquote>📝 **--Type-- :**
+    ➡️ `status` | `limit` | `teks` | `pic`</blockquote> 
+     __Menyetujui pesan.__
+        `{0}ok` atau `approve`
+     __Menolak pesan.__
+        `{0}no` atau `disapprove`
+     
+  >📝 --**Teks ke Tombol**-- :
+  >➡️ __--Untuk mengetahui format teks menjadi tombol, silakan ketik--__ `{0}markdown`
+help_paste: |
+  📋 **--Dokumen untuk Pastebin--**
+
+  __Unggah teks ke Pastebin.__
+     `{0}paste` (membalas pesan)
+help_tagall: |
+  📋 **--Dokumen untuk Mention--**
+
+  __Mention semua anggota grup.__
+     `{0}tagall` (teks atau balas)
+
+  __Menghentikan proses mention.__
+     `{0}stoptag`
+help_mmf: |
+  📋 **--Dokumen untuk Memify--**
+  
+  __Tambahkan teks ke sticker orang.__
+     `{0}mmf` (stiker balasan)
+  
+  📢 **--Contoh Perintah-- :**
+  ➡️ `{0}mmf teks atas;teks bawah`
+help_mark: |
+  📋 **--Dokumen untuk Markdown--**
+
+  __Lihat format tombol.__
+     `{0}markdown`
+help_locks: |
+  📋 **--Dokumen untuk Locks--**
+
+  __Lihat argumen kunci.__
+     `{0}locktypes`
+
+  __Izin kunci.__
+     `{0}lock` (type)
+
+   __--Membuka izin.--__
+      `{0}unlock` (type)
+
+   __Lihat semua izin.__
+      `{0}locks`  
+help_limit: |
+  📋 **--Dokumen untuk Spambot--**
+
+  __Periksa apakah akun Anda dibatasi atau tidak.__
+     `{0}limit`
+help_join: |
+  📋 **--Dokumen untuk Join--**
+
+  __Bergabung ke grup atau saluran.__
+     <code>{0}join</code> (id atau username)
+
+  __Keluar semua grup atau saluran (kecuali admin).--__
+     <code>{0}leave</code> (grup atau ch)
+
+  __keluar dari grup yang dimute.__
+     <code>{0}leavemute</code>
+
+  __Keluar dari grup atau saluran.__
+     <code>{0}kickme</code> (id atau link)
+help_invite: |
+  📋 **--Dokumen untuk Invite--**
+
+  __Mengundang seseorang ke grup/saluran.__
+     <code>{0}invite</code> (username/id)
+
+  __Mengambil tautan obrolan.__
+     <code>{0}getlink</code>
+help_info: |
+  📋 **--Dokumen untuk Info--**
+
+  __Mendapatkan daftar admin grup.__
+     `{0}info`
+
+  __Melihat informasi pengguna.__
+     `{0}info`
+
+  __Melihat informasi grup.__
+     `{0}cinfo`
+help_img: |
+  📋 **--Dokumen untuk Image--**
+
+  __Mencari gambar.__
+     `{0}img` (kueri)
+help_grup: |
+  📋 **--Dokumen untuk Group--**
+
+  <b>Groups</b>
+    __Ubah nama grup.__
+       `{0}gctitle` (nama)
+    __Ubah deskripsi grup.__
+       `{0}gcdes` (teks)
+    __Mengubah foto grup.__
+       `{0}gcpic` (balas media)
+  
+  __Hapus semua pesan yang dibalas.__
+     `{0}purge` (balas pesan)
+
+  __Menghapus pesan__.
+    `{0}del` (balas pesan)
+
+  __Laporkan pengguna kepada admin.__
+     `{0}report` (username/balas pengguna)
+
+  __Menyematkan atau melepas sematan pesan grup.__
+     `{0}pin` atau `{0}unpin` (balas pesan)
+
+  __Dapatkan tautan grup.__
+     `{0}getlink`
+help_gruplog: |
+  📋 **--Dokumen untuk  GroupLog--**
+
+  __Aktifkan atau nonaktifkan grouplog.__
+     `{0}gruplog` (on atau off)
+
+  ⛔️ --**FAQ :**--
+  ➡️ __GroupLog berfungsi untuk meneruskan semua pesan atau media dari grup dan private chat, media dan pesan yang terhapus dan sekali liat akan tetap tersimpan otomatis di gruplog.__
+help_graph: |
+  📋 **--Dokumen untuk Telegraph--**
+
+  __Untuk mengunggah teks, video, atau foto.__
+     `{0}tg` (membalas pesan/media)
+help_global: |
+  📋 --**Dokumen untuk Global**--
+
+  <b>Globally Banned</b>
+    __Melakukan globally banned.__
+       `{0}gban` (nama pengguna/balasan ke pengguna)
+    __Membuka globally banned.__
+        `{0}ungban` (nama pengguna/balas pesan)
+    __Melihat daftar pengguna globally gban.__
+       `{0}listgban` (nama pengguna/balas pesan)
+
+  <b>Globally Muted</b>
+    __Melakukan globally muted.__
+       `{0}gmute` (nama pengguna/balas pesan)
+    __Membuka globally muted.__
+       `{0}ungmute` (nama pengguna/balas pesan)
+    __Melihat daftar globally muted pengguna.__
+       `{0}listgmute` (nama pengguna/balas pesan)
+  
+help_chatgpt: |
+  📋 **--Dokumen untuk ChatGPT--**
+
+  __Memberikan pertanyaan kepada AI Gemini dari google.__
+     `{0}gemini` (pesan pertanyaan atau balasan)
+
+  __Memberikan pertanyaan kepada AI ChatGPT.__
+     `{0}ai` (pesan pertanyaan atau balasan)
+help_spmgcs: |
+  📋 **--Dokumen untuk Spam Gcast--**
+
+  __Mengirim Spam Broadcast ke Grup.__
+     `{0}spamgc` (angka) (teks/balas)
+
+  __Mengirim Spam Brodcast Secara Real Time.--__
+     `{0}spamg` (angka) (teks/balas)
+
+  __Tunda setiap pesan spam gcast.__
+     `{0}setdelay` (angka)
+     
+  ⛔ **--Peringatan-- :**
+  ➡️ __Jangan terlalu sering menggunakan fitur ini, dapat menyebabkan akun Anda dibatasi secara permanen atau akun Anda dapat dihapus!!__
+help_gcast: |
+  📋 **--Dokumen untuk Broadcast--**
+
+  __Mengirim pesan siaran ke grup.__
+     `{0}gcast` (membalas pesan/pesan)
+
+  __Mengirim pesan siaran kepada pengguna.__
+     `{0}ucast` (membalas pesan/pesan)
+
+  __Pesan siaran all type (user/grup/all)
+     `{0}bc` (type) (membalas pesan/pesan)
+
+  __Tambahkan grup ke daftar hitam broadcast.__
+     `{0}addbl`
+
+  __Menghapus grup dari daftar hitam broadcast.__
+     `{0}delbl`
+  
+  __Hapus semua daftar hitam broadcast.__
+     `{0}rmall`
+     
+  __Melihat daftar hitam broadcast.__
+     `{0}listbl`
+
+  __engirim pesan ke pengguna/grup/saluran.__
+     `{0}send` (nama pengguna/id_pengguna - teks/balasan)
+help_games: |
+  📋 **--Dokumen untuk Games--**
+
+  __Munculkan game dadu.___
+     `{0}dice`
+
+  __Munculkan game anak panah.__
+     `{0}dart`
+
+  __Munculkan game bola.__
+     `{0}bowling`
+
+  __Munculkan game sepak bola.__
+     `{0}football`
+
+  __Munculkan Permainan slot.__
+     `{0}slot`
+help_font: |
+  📋 **--Dokumen untuk Font--**
+
+  __Mengubah tampilan teks.__
+     <code>{0}font</code> [balas pesan/berikan teks]
+help_donlod: |
+  📋 --**Dokumen untuk Download**--
+
+  __Mengunduh media dari Tiktok.__
+     `{0}dtik` (link tiktok)
+
+  __Mengunduh media dari Youtube.__
+     `{0}vtube` (judul)
+
+  __Mengunduh musik dari Youtube.__
+     `{0}stube` (judul)
+
+  __Mengunduh video dari Youtube.__
+      `{0}ytdl` (tautan youtube)
+
+  __Mengunduh media dari Instagram.__
+     `{0}insta` (link instagram)
+
+  __Mengunduh media dari Twitter.__
+     `{0}twit` (tautan Twitter)
+help_content: |
+  📋 **--Dokumen untuk Content--**
+
+  __Mengambil content grup/channel melalui url.__
+     `{0}copystory` (link)
+  
+  __Mengambil story melalui tautan.
+     `{0}copystory` (link)
+
+  __Curi pengatur waktu pap (bukan hanya tampilan satu kali)
+      `{0}spy` (link)
+help_convert: |
+  📋 --**Dokumen untuk Convert**--
+
+  __Mengubah audio menjadi teks.__
+      `{0}stt` (balasan audio)
+
+  __Mengubah media menjadi anime.__
+      `{0}toanime` (balasan media)
+
+  __Mengubah stiker menjadi foto.__
+      `{0}toimg` (membalas stiker)
+
+  __Mengubah gambar/foto menjadi stiker.__
+      `{0}tosticker` atau `{0}tostick` (membalas foto)
+
+  __Mengubah stiker menjadi GIF.__
+      `{0}togif` (membalas stiker)
+
+  __Mengonversi video ke audio.__
+      `{0}toaudio` (membalas video)
+
+  __Menampilkan daftar efek audio yang tersedia.__
+     `{0}list-efek`
+
+  __Mengubah efek audio.__
+     `{0}efek` (nama efek) (balasan audio)
+help_button: |
+  📋 --**Dokumen untuk Button**--
+
+  __Membuat tombol teks.__
+     `{0}button` (membalas pesan)
+  
+  📢 --**Teks ke Tombol**-- :
+  ➡️ __--Untuk mengetahui format teks menjadi tombol, silakan ketik--__ `{0}markdown`
+help_cc: |
+  📋 **--Dokumen untuk ClearChat--**
+
+  📢 **--Query Opsional-- :**
+  ➡️ `@username` atau `reply user` | `bot` | `all`
+
+  __Menghapus riwayat obrolan.__
+     `{0}endchat` (nama pengguna/balasan ke pengguna)
+
+  __Menghapus semua obrolan dirup.__
+     `{0}cc` (nama pengguna/balasan ke pengguna)
+help_augcs: |
+  🗂 **--Dokumen untuk AutoGcast--**
+
+  __Aktifkan siaran broadcast otomatis.__
+     `{0}autogcast` (kueri dan nilai)
+  
+  📢 **--Permintaan Opsional-- :**
+  ➡️ `on` | `off` | `delay` | `add` (teks) | `del` (teks atau all) | `get` | `limit` (on atau off)
+help_notes: |
+  📋 **--Dokumen untuk Catatan--**
+
+  __Simpan catatan.__
+     `{0}save` (nama catatan) (pesan balasan)
+
+  __Memunculkan catatan yang diminta.__
+     `{0}get` (nama catatan)
+
+  __Menghapus catatan.__
+     `{0}clear` (nama catatan)
+
+  __Lihat semua catatan yang tersimpan.__
+     `{0}notes`
+  
+  📢 --**Teks ke Tombol**-- :
+  ➡️ __--Untuk mendapatkan catatan noformat, Anda dapat mengetik `{0}get` [nama catatan] noformat--__
+  ➡️ __--Untuk mengetahui format teks menjadi tombol, silakan ketik--__ `{0}markdown`
+help_qr: |
+  📋 --**Dokumen untuk QrCode**--
+
+  __Membuat qr teks menjadi gambar.__
+      `{0}qrgen` (membalas pesan teks)
+
+  __--Membuat qr gambar menjadi teks.--__
+     `{0}qrread` (membalas pesan gambar)
+help_ocr: |
+  📋 --**Dokumen untuk Ocr**--
+
+  __Mengambil teks dari media.--__
+     `{0}read` atau `{0}ocr` (membalas pesan media)
+help_supan: |
+  📋 --**Dokumen untuk Asupan**--
+
+  📢 --<b>Query Asupan<b>-- :
+  ➡️ `hijaber` | `ukhty` | `cecan` | `santuy` | `nama tiktok`
+
+  __Mengambil asupan random.__
+     `{0}asupan` (query)
+help_kodam: |
+  📋 --**Dokumen untuk Khodam**--
+
+  __Mengecek khodam pengguna.__
+     `{0}khodam` (balas pengguna)
+help_porn: |
+  📋 --**Dokumen untuk Pornhub**--
+
+  __Proxy xnxx.__
+     `{0}xnxx` (query)
+
+  __Proxy xvideos.__
+     `{0}xvideos` (query)
+
+  __Proxy pornhub.__
+     `{0}pornhub` (query)
+help_pinter: |
+  📋 --**Dokumen untuk Pinterest**--
+
+  __Mencari gambar dari Pinterest.__
+     `{0}pinter` atau `{0}pinterest` (nama)
+help_autoread: |
+  📋 --**Dokumen untuk AutoRead**--
+
+  📢<b>--Optional Query-- :<b>
+  ➡️ `time` | `gc` | `tag` | `ch` | `us` | `bot` | `all`
+
+  __Membaca pesan otomatis sesuai (query).__
+     `{0}autoread` (query) (on or off)
+help_spotify: |
+  📋 --**Dokumen untuk Spotify**--
+
+  __Mencari musik di Spotify.__
+     `{0}spotify` (lirik)
+
+  __Mengunduh musik dari tautan Spotify.__
+     `{0}spotify -dl` (link)
+help_chates: |
+  📋 --**Dokumen untuk Chats**--
+
+  __Melihat total member grup.__
+     `{0}cekmember`
+
+  __Melihat total online member grup.__
+     `{0}cekonline`
+
+  __Melihat total pesan member grup.
+     `{0}cekmsg` (username pengguna/balas pengguna)
+
+  __Melihat total member obrolan suara.__
+     `{0}cekos`
+help_auser: |
+  📋 --**Dokumen untuk AntiUser**--
+
+  __Menambahkan pengguna ke AntiUsers.__
+     `{0}atusers` (reply user/username)
+
+  __Menghapus pengguna dari AntiUsers.__
+     `{0}rmusers` (reply user/username)
+
+  __Menghapus semua pengguna dari AntiUser.__
+     `{0}clearusers`
+     
+  __Melihat daftar AntiUser.__
+     `{0}listusers`
+help_chatbot: |
+  ⪼ --**Dokumen untuk ChatBot**--
+  
+  <blockquote><b>ᐈ Perintah:</b> `{0}addchatbot`
+  <b>ᐉ Keterangan:</b> __--Untuk menambahkan grup kedalam chatbot.--__</blockquote>
+  <blockquote><b>ᐈ Perintah:</b> `{0}delchatbot` [id chat]
+  <b>ᐉ Keterangan:</b> __--Untuk menghapus grup dari chatbot.--__</blockquote>
+  <blockquote><b>ᐈ Perintah:</b> `{0}listchatbot`
+  <b>ᐉ Keterangan:</b> __--Untuk melihat daftar grup chatbot.--__</blockquote>
+  <blockquote><b>ᐈ Perintah:</b> `{0}clearchatbot`
+  <b>ᐉ Keterangan:</b> __--Untuk menghapus semua grup dari chatbot.--__</blockquote>
+  
+intruk_khodam: |
+  Anda adalah seorang paranormal yang mampu mendeskripsikan khodam seseorang yang berupa Binatang. Tugas Anda adalah mendeskripsikan khodam yang mungkin ada, termasuk wujud, sifat, dan energi yang dipancarkan. Sehingga apapun inputnya anggap itu adalah sebuah nama seseorang. Deskripsi tidak harus positif bisa saja negatif tidak masalah karena ini hiburan. Ini hanya untuk entertainment jadi bebaskan dirimu untuk menjadi seorang paranormal pada umumnya. Deskripsikan Khodam dengan singkat namun jelas, dan pastikan deskripsi tidak lebih dari dari 2000 karakter alfabet dalam plain text serta berbahasa Indonesia.
+  
+help_spamsch: |
+  📋 **--Dokumen untuk Spamsch--**
+
+  __Menambahkan catatan sch ke database.__
+     `{0}addsch` (nama sch) (balas pesan)
+     
+  __Mengambil catatan sch dari database.-__
+     `{0}getsch` (nama sch)
+
+  __Melihat catatan sch ke database.__
+     `{0}listsch`
+
+  __Menghapus catatan sch dari database.__
+     `{0}clearsch` (nama sch)
+
+  __Mengatur waktu jeda sch.__
+     `{0}delaysch` (angka)
+
+  __Memulai pesan schedule.__
+     `{0}bcsch` (nama sch)
+
+  __Memulai spam forward ke grup yg ada didatabase.__
+     `{0}bcfw` (jumlah) (jeda) (tautan postingan channel)
+
+  __Menambahkan grup ke database.__
+     `{0}addspm`
+
+  __Hapus grup dari database.__
+     `{0}delspm` (id grup)
+
+  __Dapatkan grup daftar dari database.__
+     `{0}listspm`
+
+  __Hapus semua grup di database.__
+     `{0}clearspm`  
+help_stream: |
+  📋 **--Dokumen untuk Streaming--**
+
+  __Memulai streaming audio.__
+     `{0}play` or `{0}cplay` (judul/balas media)
+
+  __Memulai Streaming Video.__
+     `{0}vplay` or `{0}cvplay` (judul/balas media)
+
+  __Menghentikam Streaming.__
+     `{0}end` or `{0}cend`
+
+  __Menjeda Streaming.__
+     `{0}pause` or `{0}cpause`
+
+  __Melewati trek streaming saat ini.__
+     `{0}skip` or `{0}cskip`
+
+  __Melanjutkan Streaming yang dijeda.__
+     `{0}resume` or `{0}cresume`
+
+  __Melihat daftar trek streaming.__
+     `{0}playlist` or `{0}cplaylist`
+
+  __Menyabungkan channel untuk streaming.__
+     `{0}channelplay` (username channel/id channel)
+help_carbon: |
+  📋 --**Dokumen untuk Carbon**--
+
+  __Membuat teks menjadi carbonara.__
+     `{0}carbon` (balas pesan teks)
+help_base: |
+  📋 --**Dokumen untuk Base64**--
+
+  __Encode text.__
+     `{0}encode` (balas pesan text)
+
+  __Decode text.__
+     `{0}decode` (balas pesan text)
+help_archive: |
+  📋 --**Dokumen untuk Archive**--
+
+  📢 **QUERY**
+  ▶️ `grup` | `user` | `bot` | `all`
+  
+  __Mengarsipkan obrolan.__
+     `{0}arsip` (query)
+
+  __Untuk meng-unarsipkan obrolan.__
+     `{0}unarsip` (query) (nama)
+help_clon: |
+  📋 --**Dokumen untuk Clone**--
+
+  __Mengcloning profile pengguna lain.__
+     `{0}clone` (balas pengguna)
+
+  __Kembali ke profile semula.__
+     `{0}revert`
